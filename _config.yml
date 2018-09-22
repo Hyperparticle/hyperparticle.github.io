@@ -38,3 +38,6 @@ github:
 
 # Gems
 plugins: [jekyll-paginate]
+
+# Directories
+exclude: ["vendor"]
