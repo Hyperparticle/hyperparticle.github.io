@@ -62,3 +62,7 @@ In the end, was it worth it? I think so. It has been such a challenge, but I've 
 
 
 How time flies: the future is as lofty and distant as a kite, yet as quick as a bullet. Now that my year is up, I'm ready for round two at Saarland University in Germany. More adventure awaits.
+
+## Recommendations
+
+A program in Europe is not for the faint of heart. Be prepared for tough challenges.

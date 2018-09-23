@@ -18,3 +18,17 @@ title: >-
   - Munich
   - Saarbrucken
   - Nancy
+
+## Prague
+
+![One Man Band](/public/img/prague-one-man-band.jpg "A one man band")
+
+## Karlovy Vary
+
+## Vienna
+
+## Munich
+
+## Saarbrucken
+
+## Nancy

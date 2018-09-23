@@ -43,4 +43,4 @@ And finally, when in Europe, why not travel around? Cheap bus rides could take a
 
 I now look forward to spending the remaining two semesters at [Saarland University](https://www.uni-saarland.de/en/master/study-programmes/lang-lit/lst/description.html) in Germany. So let's get into the details of what a graduate program in Europe feels like.
 
-## [Part 1: Living in Prague](/erasmus-living-in-prague)
+## [Part 2: Living in Prague](/erasmus-living-in-prague)
