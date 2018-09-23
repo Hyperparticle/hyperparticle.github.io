@@ -61,4 +61,6 @@ Many of the museums, theatres, and restaurants offer steep discounts to universi
 
 ![Czech National Theatre](/public/img/prague-czech-national-theatre.jpg "A view of the Czech National Theatre")
 
+Now let's transition to the coursework at Charles University.
+
 ## [Part 3: Coursework in Computational Linguistics](/erasmus-coursework-in-computational-linguistics)

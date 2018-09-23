@@ -63,6 +63,6 @@ One thing that Charles University does that all other LCT-partnered universities
 ## Triviality
 
 
-## 
+Aside from coursework, there were a few extracurricular projects I fit into the semesters.
 
 ## [Part 4: Extracurricular Projects](/erasmus-extracurricular-projects)

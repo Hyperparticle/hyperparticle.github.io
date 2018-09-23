@@ -36,4 +36,6 @@ title: >-
 
 ## Nancy
 
+Now it's time to close this post with some additional remarks and personal thoughts on the subject of studying in Europe.
+
 ## [Part 6: Closing Thoughts](/erasmus-mundus-conclusion)
