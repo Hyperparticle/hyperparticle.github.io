@@ -6,27 +6,28 @@ title: >-
   Living in Prague
 ---
 
+![Prague I Study Here](/public/img/prague-i-study-here.jpg "I study here!")
+
 1. [Introduction](/erasmus-mundus)
-1. [Why Europe?](/erasmus-why-europe)
 1. **[Living in Prague](/erasmus-living-in-prague)**
 1. [Coursework in Computational Linguistics](/erasmus-coursework-in-computational-linguistics)
 1. [Extracurricular Projects](/erasmus-extracurricular-projects)
 1. [Exploring Europe](/erasmus-exploring-europe)
-1. [Closing Remarks](/erasmus-mundus-conclusion)
+1. [Closing Thoughts](/erasmus-mundus-conclusion)
 
-  - Transportation
-  - Weather
-  - Sights and tours
-  - Housing
-  - Bureaucracy
+## Discovery of Erasmus Mundus
 
-## Part 2: Living in Prague
+Entering my senior year studying Computer Science (CS) at Boise State, sent out some emails to ask any faculty if they are willing to work with me on a year-long CS project. I caught the attention of [Dr. Casey Kennington](https://coen.boisestate.edu/faculty-staff/caseykennington/), which led us to work on what is now known as a virtual assistant called [Hello Augi](helloaugi.com). Dr. Kennington intrigued me with his deep, internalized knowledge of linguistics and the *many* problems associated with trying to process natural language. Eventually, I found out that he earned three graduate degrees in Europe: two Master's, and one PhD.
 
-## The Erasmus Mundus Program
+The idea of having two Master's degrees was bizarre to me, but I eventually got an answer. Dr. Kennington received a scholarship from the European Commission to study Computational Linguistics at two European partner universities. The [Erasmus Mundus Joint Master's Program](https://ec.europa.eu/programmes/erasmus-plus/opportunities/individuals/students/erasmus-mundus-joint-master-degrees_en) offers joint degrees in several subject areas, one of them being [Language & Communication Technologies (LCT)](https://lct-master.org/). A small handful of EU universities participate in the program, allowing a student to study for a year each at two universities. Upon completion of the two year program, the student receives two computational linguistics degrees, one from each. Competitive applicants are eligible to receive an Erasmus Mundus scholarship, which pays for not only tuition, but also travel and living expenses.
 
-I first heard of the Erasmus Mundus Master's program from a former alumnus, now a current professor at Boise State University. Basically, students in the program get the opportunity to study at two European partner universities, one year each, to obtain two Master's degrees at the end of it. I applied for the Language Communication Technologies (LCT) program in January 2017 and received an acceptance notice in April.
+## Preparations for Prague
 
-In addition, I received a scholarship which is essentially providing me a free education for my entire study period. I have more than enough funds for tuition, housing, living expenses, transportation, food, and basically anything else I need to live comfortably. It turns out living in Europe is cheap (aside from buying tech). Tuition, despite being double for overseas students (8,500 instead of 4,250), is completely covered. I'm grateful for this, as college expenses in the US is notoriously expensive, especially for Master's programs, which can reach as high as $40,000 for University costs alone. 
+![Prague Park](/public/img/prague-park.jpg "Prague in the Fall")
+
+After compiling the required documents and submitting the LCT application in January 2017, I received a scholarship acceptance notice in April.
+
+In addition, I received a scholarship which is essentially providing me a free education for my entire study period. I have more than enough funds for tuition, housing, living expenses, transportation, food, and basically anything else I need to live comfortably. It turns out living in Europe is cheap (aside from buying tech).
 
 But many events have transpired since then.
 
@@ -57,3 +58,9 @@ Instead of going with the dorms, I've decided to stay at an apartment.
 ## Bureaucracy
 
 Something tells me this process should have been easier, but it wasn't.
+
+  - Transportation
+  - Weather
+  - Sights and tours
+  - Housing
+  - Bureaucracy
