@@ -24,7 +24,7 @@
   transition: all 0.2s ease-in-out;
 }
 
-.social-icons * a i:hover,img:hover {
+.social-icons * a i:hover, .social-icons * a img:hover {
   opacity: .7;
 }
 
