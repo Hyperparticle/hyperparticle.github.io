@@ -6,6 +6,8 @@ title: >-
   Exploring Europe
 ---
 
+![New Town Hall](/public/img/munich-cathedral.gif "Munich's New Town Hall in Marienplatz")
+
 1. [Introduction](/erasmus-mundus)
 1. [Living in Prague](/erasmus-living-in-prague)
 1. [Coursework in Computational Linguistics](/erasmus-coursework-in-computational-linguistics)
@@ -21,7 +23,7 @@ title: >-
 
 ## Prague
 
-![One Man Band](/public/img/prague-one-man-band.jpg "A one man band")
+![One Man Band](/public/img/prague-one-man-band.jpg "A one man band on Charles Bridge")
 
 ## Karlovy Vary
 
@@ -29,6 +31,9 @@ title: >-
 
 ## Munich
 
+
 ## Saarbrucken
 
 ## Nancy
+
+## [Part 6: Closing Thoughts](/erasmus-mundus-conclusion)

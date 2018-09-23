@@ -64,3 +64,5 @@ One thing that Charles University does that all other LCT-partnered universities
 
 
 ## 
+
+## [Part 4: Extracurricular Projects](/erasmus-extracurricular-projects)
