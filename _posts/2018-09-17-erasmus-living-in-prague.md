@@ -1,16 +1,18 @@
 ---
 layout: post
 title: >-
-  Erasmus Mundus Retrospective: Charles University in Prague, Year 1 (Part 2)
+  Erasmus Mundus Retrospective:
+  <br>
+  Living in Prague
 ---
 
-- [Summary](2018-09-11-erasmus-mundus.md)
-- [Why Europe?](2018-09-11-erasmus-why-europe.md)
-- [Living in Prague](2018-09-11-erasmus-living-in-prague.md)
-- [Coursework in Computational Linguistics](2018-09-11-erasmus-coursework-in-computational-linguistics.md)
-- [Extracurricular Projects](2018-09-11-erasmus-extracurricular-projects.md)
-- [Exploring Europe](2018-09-11-erasmus-exploring-europe.md)
-- [Closing Remarks](2018-09-11-erasmus-mundus-conclusion.md)
+1. [Introduction](/erasmus-mundus)
+1. [Why Europe?](/erasmus-why-europe)
+1. **[Living in Prague](/erasmus-living-in-prague)**
+1. [Coursework in Computational Linguistics](/erasmus-coursework-in-computational-linguistics)
+1. [Extracurricular Projects](/erasmus-extracurricular-projects)
+1. [Exploring Europe](/erasmus-exploring-europe)
+1. [Closing Remarks](/erasmus-mundus-conclusion)
 
   - Transportation
   - Weather

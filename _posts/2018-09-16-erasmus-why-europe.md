@@ -1,22 +1,24 @@
 ---
 layout: post
 title: >-
-  Erasmus Mundus Retrospective: Charles University in Prague, Year 1 (Part 1)
+  Erasmus Mundus Retrospective:
+  <br>
+  Why Europe?
 ---
 
-- [Summary](2018-09-11-erasmus-mundus.md)
-- [Why Europe?](2018-09-11-erasmus-why-europe.md)
-- [Living in Prague](2018-09-11-erasmus-living-in-prague.md)
-- [Coursework in Computational Linguistics](2018-09-11-erasmus-coursework-in-computational-linguistics.md)
-- [Extracurricular Projects](2018-09-11-erasmus-extracurricular-projects.md)
-- [Exploring Europe](2018-09-11-erasmus-exploring-europe.md)
-- [Closing Remarks](2018-09-11-erasmus-mundus-conclusion.md)
+![Prague Castle](/public/img/prague-castle.jpg "Prague Castle")
 
-## Part 1: Why Europe?
+1. [Introduction](/erasmus-mundus)
+1. **[Why Europe?](/erasmus-why-europe)**
+1. [Living in Prague](/erasmus-living-in-prague)
+1. [Coursework in Computational Linguistics](/erasmus-coursework-in-computational-linguistics)
+1. [Extracurricular Projects](/erasmus-extracurricular-projects)
+1. [Exploring Europe](/erasmus-exploring-europe)
+1. [Closing Remarks](/erasmus-mundus-conclusion)
 
-When presented with the progress of my studies, my friends and family are puzzled as to why I chose to study in Europe. Given my personality and past choices, I don't blame them. I would think the same thing prior to my final decision. Just a little background: I'm a shy introvert who is cautious of trying new things. Living in Europe for two years would be like launching myself into outer space.
+Upon discovering status as a graduate student in Europe, my friends and family were puzzled as to why I chose to study there. Given my personality and past choices, I can see why. I would think the same thing prior to my final decision to go. I'm a shy introvert who is cautious of trying new things. Living in Europe for two years would be little short of launching myself into outer space... or so I thought.
 
-### Discovery of Erasmus Mundus
+## Discovery of Erasmus Mundus
 
 Europe is an interesting place. Due to its unique geography and rich cultural history, it is densely packed with old cities (some ancient, even).
 
