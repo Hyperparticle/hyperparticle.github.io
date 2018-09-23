@@ -6,6 +6,8 @@ title: >-
   Coursework in Computational Linguistics 
 ---
 
+![Charles University Guest Lecture](/public/img/prague-charles-guest-lecture.jpg "A guest lecturer at Charles University")
+
 1. [Introduction](/erasmus-mundus)
 1. [Living in Prague](/erasmus-living-in-prague)
 1. **[Coursework in Computational Linguistics](/erasmus-coursework-in-computational-linguistics)**
@@ -13,17 +15,32 @@ title: >-
 1. [Exploring Europe](/erasmus-exploring-europe)
 1. [Closing Thoughts](/erasmus-mundus-conclusion)
 
-  - Linguistics
-    - Phonetics
-    - Morphology & Syntax
-  - Speech Recognition
-  - Machine Translation
-  - Data Structures & Computational Complexity
-  - Statistical NLP
-  - Deep Learning
+## Linguistics
 
+### Phonetics
 
-## Coursework
+### Morphology & Syntax
+
+## Statistical Natural Language Processing
+
+### Hidden Markov Models
+
+### Parsing
+
+## Speech Recognition
+
+## Machine Translation
+
+## Data Structures & Computational Complexity
+
+## Machine Learning
+
+## Deep Learning
+
+![Optimizers 1](/public/img/optimizers-1.gif)
+![Optimizers 2](/public/img/optimizers-2.gif)
+![Optimizers 3](/public/img/optimizers-3.gif)
+![Optimizers 4](/public/img/optimizers-4.gif)
 
 Most of the classes for the first semester were compulsory. Data Structures I, Introduction to Complexity and Computability, Statistical Natural Language Processing I, General Linguistics, Natural Language Processing Technologies. I took one elective, Speech Recognition.
 
@@ -42,3 +59,8 @@ One saving grace was that after the meeting, the exams were conducted with two i
 There's such a disparity in difficulty among first semester classes. On the one hand we're getting an introduction to Bash scripting, Python, text processing, and on the other hand we're proving the amortized complexity of a Fibonacci Heap using probability theory. The jump in difficulty is massive.
 
 One thing that Charles University does that all other LCT-partnered universities do not is require a state exam at the conclusion of the Master's program. This means that after submitting my thesis, I will be required to go back to Prague to take a final exam on compulsory material that I have studied while at Charles University.
+
+## Triviality
+
+
+## 
