@@ -22,6 +22,10 @@ Europe is an interesting place. Due to its unique geography and rich cultural hi
 
 Exploring Europe, two Master's degrees, artificial intelligence, scholarship. At no other point in my life would I get the same opportunity. Having my own family to take care of would be exponentially harder.
 
+But the idea of exploring Europe, receiving two graduate degrees in two years, and potentially having it all paid for by a scholarship (tuition, travel, living expenses) from the European Commission was too enticing to pass up.
+
+Shops, museums, cathedrals, and theaters were abundant. Transportation was efficient.
+
 ### Some Doubts
 
 For my undergraduate studies, I decided to stay with Boise State University so I could stay home with family just a little bit longer. In retrospect, it was a good decision: expenses were low, the computer science program had some excellent classes, and I spent quality time with family. During that time, I acquired a taste for the industry in a year-long internship as a software engineer.

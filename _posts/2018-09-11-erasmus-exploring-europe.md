@@ -1,7 +1,7 @@
 ---
 layout: post
 title: >-
-  Life as an Erasmus Mundus Student: 
+  Erasmus Mundus Retrospective: Charles University in Prague, Year 1 (Part 5)
 ---
 
 - [Summary](2018-09-11-erasmus-mundus.md)

@@ -18,6 +18,8 @@ title: >-
   - Housing
   - Bureaucracy
 
+## Part 2: Living in Prague
+
 ## The Erasmus Mundus Program
 
 I first heard of the Erasmus Mundus Master's program from a former alumnus, now a current professor at Boise State University. Basically, students in the program get the opportunity to study at two European partner universities, one year each, to obtain two Master's degrees at the end of it. I applied for the Language Communication Technologies (LCT) program in January 2017 and received an acceptance notice in April.
