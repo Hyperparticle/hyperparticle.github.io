@@ -15,13 +15,15 @@ title: >-
 1. [Exploring Europe](/erasmus-exploring-europe)
 1. [Closing Thoughts](/erasmus-mundus-conclusion)
 
-## The Computer Science Building
+## The LCT Group
 
 ![Charles University Lab](/public/img/prague-charles-lab.jpg "The lab inside the CS building")
 
 ## Linguistics
 
 ![Charles University Linguistics](/public/img/prague-charles-lecture.jpg "A linguistics lecture")
+
+![](/public/img/mouth-xray.gif)
 
 ### Phonetics
 
@@ -35,11 +37,17 @@ title: >-
 
 ## Speech Recognition
 
+![](/public/img/waveform-zoom.gif)
+
+![](/public/img/wavenet-gen.gif)
+
 ## Machine Translation
 
-## Data Structures & Computational Complexity
+![](/public/img/transform20fps.gif)
 
 ## Machine Learning
+
+![](/public/img/suggestions-demo.gif)
 
 ## Deep Learning
 
@@ -48,9 +56,17 @@ title: >-
 ![Optimizers 3](/public/img/optimizers-3.gif)
 ![Optimizers 4](/public/img/optimizers-4.gif)
 
-Most of the classes for the first semester were compulsory. Data Structures I, Introduction to Complexity and Computability, Statistical Natural Language Processing I, General Linguistics, Natural Language Processing Technologies. I took one elective, Speech Recognition.
+![](/public/img/fox-transfer.gif)
 
-Two classes in particular were immensely challenging: Data Structures I and Introduction to Complexity and Computability. They were taught by the same instructor. His favorite word was "trivial". In fact, I tallied up the results at the end of each class, and this instructor has said the word more than 214 times over the course of 14 weeks.
+![](/public/img/gan-faces.gif)
+
+![](/public/img/self-driving-car-classification.gif)
+
+Most of the classes for the first semester were compulsory. Data Structures I, Introduction to Complexity and Computability, Statistical Natural Language Processing I, General Linguistics, Natural Language Processing Technologies.
+
+## Data Structures & Computational Complexity a.k.a. Triviality
+
+<!-- Two classes in particular were immensely challenging: Data Structures I and Introduction to Complexity and Computability. They were taught by the same instructor. His favorite word was "trivial". In fact, I tallied up the results at the end of each class, and this instructor has said the word more than 214 times over the course of 14 weeks.
 
 The instructor's grading style was highly unorthodox. If your results were not correct or your implementation had a bug in it, he would mark down your grade as a 0 and have you redo the assignment and resubmit with a 10% penalty.
 
@@ -66,9 +82,7 @@ There's such a disparity in difficulty among first semester classes. On the one 
 
 One thing that Charles University does that all other LCT-partnered universities do not is require a state exam at the conclusion of the Master's program. This means that after submitting my thesis, I will be required to go back to Prague to take a final exam on compulsory material that I have studied while at Charles University.
 
-## Triviality
 
-
-Aside from coursework, there were a few extracurricular projects I fit into the semesters.
+Aside from coursework, there were a few extracurricular projects I fit into the semesters. -->
 
 ## [Part 4: Extracurricular Projects](/erasmus-extracurricular-projects)
