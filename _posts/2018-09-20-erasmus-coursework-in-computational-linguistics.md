@@ -15,7 +15,13 @@ title: >-
 1. [Exploring Europe](/erasmus-exploring-europe)
 1. [Closing Thoughts](/erasmus-mundus-conclusion)
 
-## The LCT Group
+**This page is not finished! Come back soon.**
+
+## The LCT Group at Charles University
+
+If there were any single factor that got me through the hard parts of the LCT program, it would have to be my LCT classmates. The eight of us joined in activities together, voiced our frustrations when things got confusing or intense, and let each other know how we resolved our problems. We also received help from our coordinators, but there were many times where they had no power to make things simpler with how Charles University operates things. I'm sure if I had another year to stay at Charles University, things would go much smoother, but it was a big learning process at first. Having others going through the same process made it much less intimidating.
+
+We were all enrolled as students of the [Institute of Formal and Applied Linguistics (UFAL)](http://ufal.mff.cuni.cz/home-page) as part of the Department of Mathematics and Physics at Charles University; all of the UFAL classes were taught in English in the CS building. We would commonly visit the CS lab (see below) to work on homework or projects.
 
 ![Charles University Lab](/public/img/prague-charles-lab.jpg "The lab inside the CS building")
 
@@ -23,15 +29,17 @@ title: >-
 
 ![Charles University Linguistics](/public/img/prague-charles-lecture.jpg "A linguistics lecture")
 
-![](/public/img/mouth-xray.gif)
-
 ### Phonetics
+
+![](/public/img/mouth-xray.gif)
 
 ### Morphology & Syntax
 
 ## Statistical Natural Language Processing
 
 ### Hidden Markov Models
+
+![](/public/img/hmm.gif)
 
 ### Parsing
 
