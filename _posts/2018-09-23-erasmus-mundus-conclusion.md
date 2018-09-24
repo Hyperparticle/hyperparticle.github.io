@@ -6,7 +6,7 @@ title: >-
   Closing Thoughts
 ---
 
-![Prague Castle](/public/img/prague-castle.jpg "Prague Castle")
+![LCT 2018](/public/img/lct-2018.jpg "LCT Group Meeting 2018")
 
 1. [Introduction](/erasmus-mundus)
 1. [Living in Prague](/erasmus-living-in-prague)
@@ -19,7 +19,6 @@ Upon discovering status as a graduate student in Europe, my friends and family w
 
 ## Weighing the Options
 
-![Karlovy Vary](/public/img/karlovy-vary-overlook.jpg "Overlooking a spa town, Karlovy Vary")
 
 For my undergraduate studies, I decided to stay with Boise State so I could stay home just a little bit longer. In retrospect, it was a good decision: expenses were low, the computer science program had some excellent classes, and I spent quality time with family. During that time, I acquired a taste for the industry in a year-long internship as a software engineer. This made me shift priorities a bit, convincing myself that graduate studies were unnecessary. But then Dr. Kennington came along, and caused me to desire to push for a degree in an AI-related field. I had wanted to work in AI all along, but did not know how to approach it in the right way.
 
@@ -27,7 +26,7 @@ That is when I decided to reevaluate my options. The LCT program looked interest
 
 On the other hand, at no other point in my life would I get to do something quite like this. I would get to explore the refreshing atmosphere of European cities, absorb the culture of the countries of residence, progress my career in a field I am deeply interested in, and then at the end of a couple years obtain two Master's degrees. And the kicker? It's all paid for. Getting married/having kids would limit mobility severely, likely closing that opportunity for good. Getting a Master's or PhD degree elsewhere would disincentivize me, as it would be effectively redundant to get another in Europe. If I get situated with a good industry job, I would then be taking a pay cut.
 
- Tuition, despite being double for overseas students (8,500 instead of 4,250), is completely covered. I'm grateful for this, as college expenses in the US is notoriously expensive, especially for Master's programs, which can reach as high as $40,000 for University costs alone. 
+ Tuition, despite being double for overseas students (8,500 instead of 4,250), is completely covered. I'm grateful for this, as college expenses in the US is notoriously expensive, especially for Master's programs, which can reach as high as $40,000 for University costs alone.
 
 ## Final Decisions
 
@@ -66,3 +65,7 @@ How time flies: the future is as lofty and distant as a kite, yet as quick as a 
 ## Recommendations
 
 A program in Europe is not for the faint of heart. Be prepared for tough challenges.
+
+If you made it this far, congrats! Now go out there and be the best version of yourself that you aspire to be!
+
+![Dan's Portrait](/public/img/dan-portrait-color-pop.jpg)

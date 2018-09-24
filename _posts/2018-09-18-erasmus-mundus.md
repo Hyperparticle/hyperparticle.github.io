@@ -31,7 +31,7 @@ I first learned of computational linguistics from a good friend of mine, [Dr. Ca
 
 So I joined the Erasmus Mundus European Master's Program in LCT, and have recently completed two of the program's four semesters at [Charles University](http://ufal.mff.cuni.cz/home-page) in Prague. Getting situated in the Czech Republic was not easy. There was a lot of red tape to get through, and the necessary bureaucratic paperwork was slow and cumbersome. But eventually, by the help of wonderful LCT classmates and coordinators, the paper shuffling ceased.
 
-![Prague Garden](/public/img/prague-garden.jpg "A view of the Prague gardens.")
+![Prague Castle](/public/img/prague-castle.jpg "Prague Castle")
 
 Then I started to explore the beautiful romanesque and gothic architecture in the city. The narrow streets gradual hills painted a picture of a serene set piece lost in time&mdash;a calming attribute to an otherwise busy city. Czech arts and theatre streamed in from all sides. I could take a metro and a couple tram rides and be across the entire city in half an hour. My studies preoccupied my attention most of the time, but it was fantastic knowing I could step outside and find immediate refreshment.
 
