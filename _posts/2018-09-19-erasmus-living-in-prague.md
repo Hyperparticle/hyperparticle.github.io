@@ -61,6 +61,10 @@ Many of the museums, theatres, and restaurants offer steep discounts to universi
 
 ![Czech National Theatre](/public/img/prague-czech-national-theatre.jpg "A view of the Czech National Theatre")
 
+Oh, and make sure to try a [Trdelník](https://www.geniuskitchen.com/recipe/trdelnik-slovak-czech-sweet-pastry-165166)&mdash;It's like a giant churro filled with ice cream.
+
+![Trdelník](/public/img/prague-trdelnik.jpg "A Trdelník is tasty")
+
 Now let's transition to the coursework at Charles University.
 
 ## [Part 3: Coursework in Computational Linguistics](/erasmus-coursework-in-computational-linguistics)

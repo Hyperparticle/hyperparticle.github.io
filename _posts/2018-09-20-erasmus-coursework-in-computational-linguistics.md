@@ -15,7 +15,13 @@ title: >-
 1. [Exploring Europe](/erasmus-exploring-europe)
 1. [Closing Thoughts](/erasmus-mundus-conclusion)
 
+## The Computer Science Building
+
+![Charles University Lab](/public/img/prague-charles-lab.jpg "The lab inside the CS building")
+
 ## Linguistics
+
+![Charles University Linguistics](/public/img/prague-charles-lecture.jpg "A linguistics lecture")
 
 ### Phonetics
 

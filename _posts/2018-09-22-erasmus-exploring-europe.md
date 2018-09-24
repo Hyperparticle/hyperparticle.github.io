@@ -39,7 +39,7 @@ Statues and art installations pepper the city. Franz Kafka, a famous writer born
 
 ## Karlovy Vary
 
-West of Prague is a famous spa town named [Karlovy Vary](https://www.karlovyvary.cz/en), in which so many Russians vacation there that their employees speak in Russian before falling back to Czech. The town is built on top of a hot springs and features a dense forest of colorful trees in the fall.
+West of Prague is a famous spa town named [Karlovy Vary](https://www.karlovyvary.cz/en), in which so many Russians vacation there that the shop owners default to speaking in Russian. The town is built on top of a hot springs and features a dense forest of colorful trees in the fall.
 
 ![Karlovy Vary Center](/public/img/karlovy-vary-center.jpg "Near the center of Karlovy Vary")
 
@@ -71,7 +71,7 @@ The Schönbrunn Palace offers a grand entrance, followed by a giant garden, and 
 
 Munich would have to be the liveliest city I have visited. Every 10 meters you walk, you will find another street performer.
 
-The animated image you saw at the top of this page was Munich's New Town Hall taken as a series of ~150 photographs stitched together and stabilized in After Effects to create a [hyperlapse](https://creators.vice.com/en_au/article/nz4neg/whats-the-difference-between-a-timelapse-and-hyperlapse). Note how the clock ticks, showing that the pictures were taken over the course of 10-15 minutes.
+The animated image you saw at [the top of this page](.) was Munich's New Town Hall taken as a series of ~150 photographs stitched together and stabilized in After Effects to create a [hyperlapse](https://creators.vice.com/en_au/article/nz4neg/whats-the-difference-between-a-timelapse-and-hyperlapse). Note how the clock ticks, showing that the pictures were taken over the course of 10-15 minutes.
 
 Here is a person working on a sand sculpture.
 
@@ -91,7 +91,7 @@ And here's some more architecture to round things out.
 
 ## Saarbrücken
 
-Now that my year is up, I'm ready for round two at Saarland University in Germany. Coming up next: here is the city where I will be next semester. It's a smaller city featuring a large forest of trees and an integrated campus at Saarland University. Stay tuned for next year, when I will complete my studies and write a second part to this series of posts.
+Now that my year is up, I'm ready for round two at Saarland University in Saarbrücken, Germany, bordering France and Luxembourg. It's a smaller city featuring a large forest of trees and an integrated campus. Stay tuned for next year, when I will complete my studies and write a second part to this series of posts.
 
 ![Saarbrucken River](/public/img/saarbrucken-river.jpg "The Saar river")
 
