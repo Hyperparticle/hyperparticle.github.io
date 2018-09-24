@@ -91,7 +91,7 @@ And here's some more architecture to round things out.
 
 ## Saarbrücken
 
-Coming up next: here is the city where I will be next semester. It's a smaller city featuring a large forest of trees and an integrated campus at Saarland University. Stay tuned for next year, when I will complete my studies and write a second part to this series of posts.
+Now that my year is up, I'm ready for round two at Saarland University in Germany. Coming up next: here is the city where I will be next semester. It's a smaller city featuring a large forest of trees and an integrated campus at Saarland University. Stay tuned for next year, when I will complete my studies and write a second part to this series of posts.
 
 ![Saarbrucken River](/public/img/saarbrucken-river.jpg "The Saar river")
 
