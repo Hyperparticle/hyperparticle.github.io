@@ -19,7 +19,6 @@ Upon discovering status as a graduate student in Europe, my friends and family w
 
 ## Weighing the Options
 
-
 For my undergraduate studies, I decided to stay with Boise State so I could stay home just a little bit longer. In retrospect, it was a good decision: expenses were low, the computer science program had some excellent classes, and I spent quality time with family. During that time, I acquired a taste for the industry in a year-long internship as a software engineer. This made me shift priorities a bit, convincing myself that graduate studies were unnecessary. But then Dr. Kennington came along, and caused me to desire to push for a degree in an AI-related field. I had wanted to work in AI all along, but did not know how to approach it in the right way.
 
 That is when I decided to reevaluate my options. The LCT program looked interesting, but was it for me? Given strong academic performance, there were plenty of universities in the USA I could try. Most of them would be a short plane ride away. Europe feels like it's on the other side of the solar system. It takes two whole days to complete a trip. I also no longer get access to friends or family. I would be alone in a foreign land studying in an unfamiliar education system.
@@ -64,7 +63,7 @@ How time flies: the future is as lofty and distant as a kite, yet as quick as a 
 
 ## Recommendations
 
-A program in Europe is not for the faint of heart. Be prepared for tough challenges.
+A program in Europe is not for the faint of heart. Be prepared for tough challenges. It requires a heap of grit and patience. In my case, I can definitively say that it was all worth it.
 
 If you made it this far, congrats! Now go out there and be the best version of yourself that you aspire to be!
 

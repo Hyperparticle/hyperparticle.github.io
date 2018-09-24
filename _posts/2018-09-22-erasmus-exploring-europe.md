@@ -51,15 +51,49 @@ The town is most beautiful in the fall when the leaves are changing hues.
 
 ![Karlovy Vary](/public/img/karlovy-vary-overlook.jpg "Overlooking the spa town, Karlovy Vary")
 
-
-
 ## Vienna
+
+Out of all of the cities I have seen, Vienna would be closest to the grand and ornate architecture of Prague, and perhaps even more so. Straight out of the central metro station, you are greeted with St. Stephen's Cathedral. The interior is equally as impressive.
+
+![Vienna Cathedral](/public/img/vienna-cathedral.jpg "St. Stephen's Cathedral in the heart of Vienna")
+
+![Vienna Cathedral Interior](/public/img/vienna-cathedral-interior.jpg "The interior of St. Stephen's Cathedral")
+
+The Schönbrunn Palace offers a grand entrance, followed by a giant garden, and finally an enormous view.
+
+![Vienna Palace](/public/img/vienna-palace.jpg "The front face of the Schönbrunn Palace")
+
+![Vienna Palace Garden](/public/img/vienna-palace-garden.jpg "The Schönbrunn Palace garden")
+
+![Vienna Palace View](/public/img/vienna-palace-view.jpg "A view from the Schönbrunn Palace")
 
 ## Munich
 
- The animated image you saw at the top of this page was taken as a series of ~150 photographs stitched together and stabilized in After Effects to create a hyperlapse. Note how the clock ticks, showing that the pictures were taken over the course of 10-15 minutes.
+Munich would have to be the liveliest city I have visited. Every 10 meters you walk, you will find another street performer.
 
-## Saarbrucken
+The animated image you saw at the top of this page was Munich's New Town Hall taken as a series of ~150 photographs stitched together and stabilized in After Effects to create a [hyperlapse](https://creators.vice.com/en_au/article/nz4neg/whats-the-difference-between-a-timelapse-and-hyperlapse). Note how the clock ticks, showing that the pictures were taken over the course of 10-15 minutes.
+
+Here is a person working on a sand sculpture.
+
+![Munich Sand Scupture](/public/img/munich-sand.jpg "A street performer working on a sand sculpture")
+
+Nothing to see here. Just a guy playing a giant mandolin.
+
+![Munich Mandolin](/public/img/munich-mandolin.jpg "I love giant mandolins")
+
+This person appears to be missing something...
+
+![Munich Accordion Man](/public/img/munich-torso.jpg "Missing something?")
+
+And here's some more architecture to round things out.
+
+![Munich Arch](/public/img/munich-arch.jpg "An arch")
+
+## Saarbrücken
+
+Coming up next: here is the city where I will be next semester.
+
+
 
 ## Nancy
 
