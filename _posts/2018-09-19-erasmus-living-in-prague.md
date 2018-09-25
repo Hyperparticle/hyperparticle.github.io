@@ -65,6 +65,8 @@ Oh, and make sure to try a [Trdelník](https://www.geniuskitchen.com/recipe/trde
 
 ![Trdelník](/public/img/prague-trdelnik.jpg "A Trdelník is tasty")
 
+---
+
 Now let's transition to the coursework at Charles University.
 
 ## [Part 3: Coursework in Computational Linguistics](/erasmus-coursework-in-computational-linguistics)

@@ -99,6 +99,8 @@ Now that my year is up, I'm ready for round two at Saarland University in Saarbr
 
 ![Saarbrucken Railroad](/public/img/saarbrucken-railroad.jpg "A railroad in Saarbrucken")
 
+---
+
 Now it's time to close this post with some additional remarks and personal thoughts on the subject of studying in Europe.
 
 ## [Part 6: Closing Thoughts](/erasmus-mundus-conclusion)

@@ -39,6 +39,8 @@ At Charles University, we studied linguistic topics in speech, morphology, synta
 
 Outside of classes, I was eager to try my own small projects. I reproduced some research that says you can [fool neural network image classifiers by changing one pixel in an image](https://github.com/Hyperparticle/one-pixel-attack-keras), published a research paper to EMNLP demonstrating a [neural network model that jointly part-of-speech tags and lemmatizes sentences (LemmaTag)](https://github.com/Hyperparticle/LemmaTag), and completed a puzzle game called [Nodulus that is available on iOS and Android](/nodulus).
 
+![Prague View](/public/img/prague-easter-egg.jpg "A literal easter egg")
+
 And finally, when in Europe, why not travel around? Cheap bus rides could take anyone directly to a nearby major city in just a few hours. Every city I visited had at least one gigantic cathedral and plenty of museums and ornate buildings. My favorite experiences were in Vienna, whose beautiful architecture rivals even the likes of Prague, and Munich, which had a very lively and unique set of street performers and museums.
 
 I now look forward to spending the remaining two semesters at [Saarland University](https://www.uni-saarland.de/en/master/study-programmes/lang-lit/lst/description.html) in Germany. So let's get into the details of what a graduate program in Europe feels like.

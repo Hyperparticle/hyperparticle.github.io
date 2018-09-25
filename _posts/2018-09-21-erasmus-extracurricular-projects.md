@@ -55,6 +55,8 @@ Not all languages are alike when part-of-speech tagging. For instance, the Czech
 
 LemmaTag takes advantage of this by also predicting each tag subcategory and feeding this information to the lemmatizer (if the subcategories exist for the language). This modification improves both tagging and lemmatizing accuracies.
 
+---
+
 But aside from coursework and projects, I got to travel around a bit to see some incredible cities.
 
 ## [Part 5: Exploring Europe](/erasmus-exploring-europe)

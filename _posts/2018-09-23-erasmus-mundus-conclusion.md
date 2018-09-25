@@ -39,6 +39,8 @@ I think often what other paths I could have taken, and other decisions I could h
 
 &mdash;Sylvia Plath
 
+---
+
 How time flies: the future is as lofty and distant as a kite, yet as quick as a bullet. If you made it this far, congrats! Don't idle... Now is the time to go out there and be the best version of yourself that you aspire to be!
 
 <!-- "I shall be telling this with a sigh

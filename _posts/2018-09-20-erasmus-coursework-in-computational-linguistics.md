@@ -135,6 +135,8 @@ One thing that Charles University does that all other LCT-partnered universities
 
 Aside from coursework, there were a few extracurricular projects I fit into the semesters. -->
 
+---
+
 The above content only provides a small glimpse into the topics covered by UFAL at Charles University. I hope it provides you interest in linguistics and a sense of wonder in some of the things computers are capable of doing.
 
 Outside of classes, I also managed to fit in a few extra projects.
