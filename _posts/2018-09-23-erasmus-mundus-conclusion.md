@@ -27,7 +27,7 @@ That is when I decided to reevaluate my options. The LCT program looked interest
 
 On the other hand, at no other point in my life would I get to do something quite like this. I would get to explore the refreshing atmosphere of European cities, absorb the culture of the countries of residence, enjoy the food, sights, and activities Europe has to offer, progress my career in a field I am deeply interested in, learn to be more independent, and then at the end of a couple years obtain two Master's degrees. And the kicker? It's all paid for, something that's difficult to obtain with a Master's in the USA. Getting married/having kids would limit mobility severely, likely closing that opportunity for good. Getting a Master's or PhD degree elsewhere would disincentivize me, as it would be effectively redundant to get another in Europe. If I get situated with a good industry job, I would then be taking a pay cut.
 
-## Final Decisions
+## Reflection
 
 ![Karlovy Vary Columns](/public/img/karlovy-vary-columns.jpg "A set of columns in Karlovy Vary")
 

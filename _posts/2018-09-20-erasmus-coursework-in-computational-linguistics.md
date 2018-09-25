@@ -47,13 +47,13 @@ The earliest forms of these messages can be traced back to speech: the way human
 
 On the lowest levels of human language is the interplay between words and sentence structure to create new meanings. Morphology studies words and how they can change forms (e.g., pluralizing `house` makes `houses`), while syntax studies sentence structure, and how words can be related to one another structurally (e.g., `two` in `two birds` modifies `birds`). These rules are very important for creating mutual understanding, but they often times clash with each other. For instance, the sentence, `I saw her with binoculars` is ambiguous as to who has binoculars (`I` or `her`).
 
-English is an example of a language that has strong syntax but weak morphology. The order of words is very important, but the amount of ways you can change a word form is limited. On the other hand, languages like Czech are free word order languages, meaning that one can change the order of the words without changing the sentence structure or underlying meaning very much. Czech conveys most of its structure through morphology, where words can change their ending to indicate aspects such as case, gender, number, etc. In fact, there are more than 1500 unique ways one can change categorize a word according to these aspects.
+<!-- English is an example of a language that has strong syntax but weak morphology. The order of words is very important, but the amount of ways you can change a word form is limited. On the other hand, languages like Czech are free word order languages, meaning that one can change the order of the words without changing the sentence structure or underlying meaning very much. Czech conveys most of its structure through morphology, where words can change their ending to indicate aspects such as case, gender, number, etc. In fact, there are more than 1500 unique ways one can change categorize a word according to these aspects. -->
 
 ## Semantics
 
 ![Color Semantics](/public/img/color-semantics.png)
 
-Without meaning, language would be reduced to a bunch of noise. Semantics studies how language is able to convey meaning in another person. This is one of the areas of linguistics we know least about. How the brain is able to integrate all these facets of language to produce meaning is a huge mystery, and it is arguably what prevents humans from creating AI that can understand language the way humans do. But that isn't to say there hasn't been a lot of progress made in the field. There are many different approaches, from using rigid logical statements in mathematical proof, to cataloguing the relationships between words in a contextual web.
+Without meaning, language would be reduced to a bunch of noise. Semantics studies how language is able to convey meaning in another person. This is one of the areas of linguists know least about. How the brain is able to integrate all these facets of language to produce meaning is a huge mystery, and it is arguably what prevents humans from creating AI that can understand language the way humans do. But that isn't to say there hasn't been a lot of progress made in the field. There are many different approaches, from using rigid logical statements in mathematical proof, to cataloguing the relationships between words in a contextual web.
 
 ## Natural Language Processing
 
@@ -71,7 +71,7 @@ The media is abuzz with hype when pertaining to the terms *Deep Learning* and *N
 
 Deep learning is an approach to machine learning, where given a list of inputs and desired outputs, one can train a hierarchy of programmable functions (a.k.a. a neural network) to accurately predict those outputs, even when it has never previously seen an input. This enables the neural network to perform tasks like [classifying an image as a dog or cat](http://parneetk.github.io/blog/cnn-cifar10/), [transcribing speech audio to text](https://blog.manash.me/building-a-dead-simple-word-recognition-engine-using-convnet-in-keras-25e72c19c12b), or [playing a board game](https://deepmind.com/research/alphago/).
 
-During training, one can visualize how different optimizers try to get to a reasonable solution. I like to imagine reaching a solution as a ball rolling down a bumpy hill.
+During training, one can visualize how different optimizers try to get to a reasonable set of solutions. I like to imagine reaching a solution as a ball rolling down a bumpy hill.
 
 ![Optimizers 2](/public/img/optimizers-2.gif)
 ![Optimizers 4](/public/img/optimizers-4.gif)
@@ -86,26 +86,31 @@ Neural networks can segment an image into constituent parts and classify them. I
 
 ![Image Segmentation](/public/img/self-driving-car-classification.gif)
 
-Neural networks can generate faces they have never seen before, and can even interpolate between facial features like hair color and skin tone.
+Neural networks can generate images of faces they have never seen before, and can even interpolate between facial features like hair color and skin tone.
 
 ![Face Generation](/public/img/gan-faces.gif)
 
-
-## Speech Recognition
+## Speech Processing
 
 ![Waveform](/public/img/waveform-zoom.gif)
 
+Speech is peculiarly interesting, as it all boils down to controlled vibrations (of air, mostly). The speech waveform tells one how much they need to push or pull a membrane over time to produce the same sound. Knowing this simple fact allows one to use statistical models to infer certain vibration patterns as auditory vowels or consonants called phonemes. Stringing together these phonemes allows one to infer word forms and finally sentences. This process is known as Automatic Speech Recognition, i.e., translating speech waveforms to text.
+
+On the flip side, it's also possible to translate text back into speech. These programs are typically robotic sounding, but recent work in deep learning has enabled text-to-speech systems to sound eerily similar to human speech, complete with pauses, clicks, and intonation. One of these approaches is called [WaveNet](https://deepmind.com/blog/wavenet-generative-model-raw-audio/), and applies a filter over previously generated audio to generate the next tiny segment of speech.
+
 ![Wavenet](/public/img/wavenet-gen.gif)
+
+Take a listen for yourself. The audio below was generated entirely by a computer.
+
+<audio src="https://storage.googleapis.com/deepmind-media/pixie/us-english/wavenet-1.wav" controls="controls"></audio>
 
 ## Machine Translation
 
 ![Transformer Model](/public/img/transform20fps.gif)
 
-
-
 <!-- Most of the classes for the first semester were compulsory. Data Structures I, Introduction to Complexity and Computability, Statistical Natural Language Processing I, General Linguistics, Natural Language Processing Technologies. -->
 
-## Data Structures & Computational Complexity a.k.a. Triviality
+<!-- ## Data Structures & Computational Complexity a.k.a. Triviality -->
 
 <!-- Two classes in particular were immensely challenging: Data Structures I and Introduction to Complexity and Computability. They were taught by the same instructor. His favorite word was "trivial". In fact, I tallied up the results at the end of each class, and this instructor has said the word more than 214 times over the course of 14 weeks.
 
