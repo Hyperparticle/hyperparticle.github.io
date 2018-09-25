@@ -19,9 +19,9 @@ title: >-
 
 ## The LCT Group at Charles University
 
-If there were any single factor that got me through the hard parts of the LCT program, it would have to be my LCT classmates. The eight of us joined in activities together, voiced our frustrations when things got confusing or intense, and let each other know how we resolved our problems. We also received help from our coordinators, but there were many times where they had no power to make things simpler with how Charles University operates things. I'm sure if I had another year to stay at Charles University, things would go much smoother, but it was a big learning process at first. Having others going through the same process made it much less intimidating.
+If there were any single factor that got me through the hard parts of the LCT program, it would have to be my LCT classmates. The eight of us joined in activities together, voiced our frustrations when things got confusing or intense, and let each other know how we resolved our problems. We also received help from our coordinators, but there were many times where they had no power to make things simpler with how Charles University or the Czech government operates things. I'm sure if I had another year to stay at Charles University, things would go much smoother, as it was a big learning process at first. Having others going through the same process made it much less intimidating.
 
-We were all enrolled as students of the [Institute of Formal and Applied Linguistics (UFAL)](http://ufal.mff.cuni.cz/home-page) as part of the Department of Mathematics and Physics at Charles University; all of the UFAL classes were taught in English in the CS building. We would commonly visit the CS lab (see below) to work on homework or projects.
+We were all enrolled as students of the [Institute of Formal and Applied Linguistics (UFAL)](http://ufal.mff.cuni.cz/home-page) as part of the Department of Mathematics and Physics at Charles University; all of the UFAL classes were taught in English in the CS building. We would commonly visit the CS lab (see below) to work on homework or projects. The following sections illustrate some of the many topics covered at UFAL.
 
 ![Charles University Lab](/public/img/prague-charles-lab.jpg "The lab inside the CS building")
 
@@ -29,19 +29,67 @@ We were all enrolled as students of the [Institute of Formal and Applied Linguis
 
 ![Charles University Linguistics](/public/img/prague-charles-lecture.jpg "A linguistics lecture")
 
-### Phonetics
+Linguistics is the study of language, the funny things humans do when they want to pass a message to someone else (like the linguistics lecturer above). Language can come in many forms: from speaking, to writing, to hand signs. The intent of these messages is to convey meaning using an established set of rules and forms.
+
+## Phonetics
 
 ![Mouth x-ray](/public/img/mouth-xray.gif)
 
-### Morphology & Syntax
+The earliest forms of these messages can be traced back to speech: the way humans contort the shape of their mouth and throat to produce different noises. Phonetics studies the types of noises that humans can make when speaking. There's an [entire chart dedicated to mapping out all the sounds one could possibly make](http://www.ipachart.com/) (unless you're an AI reading this, of course).
 
-## Statistical Natural Language Processing
+[![IPA Chart](/public/img/ipa-chart.png)](https://www.internationalphoneticassociation.org/sites/default/files/IPA_Kiel_2015.pdf "International Phonetic Alphabet")
 
-### Hidden Markov Models
+## Morphology & Syntax
 
-![Hidden Markov Model](/public/img/hmm.gif)
+[![Tag Components](/public/img/tag-components.png)](https://github.com/Hyperparticle/LemmaTag "Czech Tag Components")
 
-### Parsing
+"Donaudampfschifffahrtselektrizitätenhauptbetriebswerkbauunterbeamtengesellschaft." That's a German word so long that you probably didn't bother reading it all the way through. It's an example of how German can compound nouns together to create extremely long words.
+
+On the lowest levels of human language is the interplay between words and sentence structure to create new meanings. Morphology studies words and how they can change forms (e.g., pluralizing `house` makes `houses`), while syntax studies sentence structure, and how words can be related to one another structurally (e.g., `two` in `two birds` modifies `birds`). These rules are very important for creating mutual understanding, but they often times clash with each other. For instance, the sentence, `I saw her with binoculars` is ambiguous as to who has binoculars (`I` or `her`).
+
+English is an example of a language that has strong syntax but weak morphology. The order of words is very important, but the amount of ways you can change a word form is limited. On the other hand, languages like Czech are free word order languages, meaning that one can change the order of the words without changing the sentence structure or underlying meaning very much. Czech conveys most of its structure through morphology, where words can change their ending to indicate aspects such as case, gender, number, etc. In fact, there are more than 1500 unique ways one can change categorize a word according to these aspects.
+
+## Semantics
+
+![Color Semantics](/public/img/color-semantics.png)
+
+Without meaning, language would be reduced to a bunch of noise. Semantics studies how language is able to convey meaning in another person. This is one of the areas of linguistics we know least about. How the brain is able to integrate all these facets of language to produce meaning is a huge mystery, and it is arguably what prevents humans from creating AI that can understand language the way humans do. But that isn't to say there hasn't been a lot of progress made in the field. There are many different approaches, from using rigid logical statements in mathematical proof, to cataloguing the relationships between words in a contextual web.
+
+## Natural Language Processing
+
+![Suggestions Demo](/public/img/suggestions-demo.gif)
+
+Linguistics is only the first half of computational linguistics. The other half requires a firm understanding of how computers work. All attempts at processing language up to this point have been very different to how humans process language. This isn't always a limitation, and can sometimes be a strength. Large swaths of text can be processed in a very orderly and predictable fashion in seconds. Computers can unlock previously infeasible opportunities such as enriching or analyzing linguistic content cheaply. Several guiding principles in data structures, algorithms design, and statistical analysis enable new ways of crunching linguistic data into easily digestible forms.
+
+## Deep Learning
+
+![Optimizers 1](/public/img/optimizers-1.gif)
+
+The deep learning class at Charles University was hands down my favorite course. Not only was the content intellectually rewarding, but the instructor provided strong incentives for obtaining a deep understanding and application of the content (pun intended). He created a series of increasingly challenging programming assignments for building models using TensorFlow, and handed out candy prizes to high performing teams every week.
+
+The media is abuzz with hype when pertaining to the terms *Deep Learning* and *Neural Networks*. Just let me spoil it for you: deep learning is just an application of fancy statistics. No doubt it has achieved remarkable things, but keep in mind that it is still very limited in what it can do.
+
+Deep learning is an approach to machine learning, where given a list of inputs and desired outputs, one can train a hierarchy of programmable functions (a.k.a. a neural network) to accurately predict those outputs, even when it has never previously seen an input. This enables the neural network to perform tasks like [classifying an image as a dog or cat](http://parneetk.github.io/blog/cnn-cifar10/), [transcribing speech audio to text](https://blog.manash.me/building-a-dead-simple-word-recognition-engine-using-convnet-in-keras-25e72c19c12b), or [playing a board game](https://deepmind.com/research/alphago/).
+
+During training, one can visualize how different optimizers try to get to a reasonable solution. I like to imagine reaching a solution as a ball rolling down a bumpy hill.
+
+![Optimizers 2](/public/img/optimizers-2.gif)
+![Optimizers 4](/public/img/optimizers-4.gif)
+
+But before I bore you with details, here are a few more interesting applications of deep learning.
+
+Neural networks can quickly transfer the style of a video to a given painting.
+
+![Style Transfer](/public/img/fox-transfer.gif)
+
+Neural networks can segment an image into constituent parts and classify them. In this instance, it is being used for a self-driving-car simulation.
+
+![Image Segmentation](/public/img/self-driving-car-classification.gif)
+
+Neural networks can generate faces they have never seen before, and can even interpolate between facial features like hair color and skin tone.
+
+![Face Generation](/public/img/gan-faces.gif)
+
 
 ## Speech Recognition
 
@@ -53,24 +101,9 @@ We were all enrolled as students of the [Institute of Formal and Applied Linguis
 
 ![Transformer Model](/public/img/transform20fps.gif)
 
-## Machine Learning
 
-![Suggestions Demo](/public/img/suggestions-demo.gif)
 
-## Deep Learning
-
-![Optimizers 1](/public/img/optimizers-1.gif)
-![Optimizers 2](/public/img/optimizers-2.gif)
-![Optimizers 3](/public/img/optimizers-3.gif)
-![Optimizers 4](/public/img/optimizers-4.gif)
-
-![Style Transfer](/public/img/fox-transfer.gif)
-
-![Face Generation](/public/img/gan-faces.gif)
-
-![Image Segmentation](/public/img/self-driving-car-classification.gif)
-
-Most of the classes for the first semester were compulsory. Data Structures I, Introduction to Complexity and Computability, Statistical Natural Language Processing I, General Linguistics, Natural Language Processing Technologies.
+<!-- Most of the classes for the first semester were compulsory. Data Structures I, Introduction to Complexity and Computability, Statistical Natural Language Processing I, General Linguistics, Natural Language Processing Technologies. -->
 
 ## Data Structures & Computational Complexity a.k.a. Triviality
 
@@ -92,5 +125,9 @@ One thing that Charles University does that all other LCT-partnered universities
 
 
 Aside from coursework, there were a few extracurricular projects I fit into the semesters. -->
+
+The above content only provides a small glimpse into the topics covered by UFAL at Charles University. I hope it provides you a sense of interest into linguistics and a sense of wonder in some of the things computers are capable of doing.
+
+Outside of classes, I also managed to fit in a few extra projects.
 
 ## [Part 4: Extracurricular Projects](/erasmus-extracurricular-projects)
