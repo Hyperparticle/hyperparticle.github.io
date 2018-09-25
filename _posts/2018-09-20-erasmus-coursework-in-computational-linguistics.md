@@ -31,7 +31,7 @@ We were all enrolled as students of the [Institute of Formal and Applied Linguis
 
 ### Phonetics
 
-![](/public/img/mouth-xray.gif)
+![Mouth x-ray](/public/img/mouth-xray.gif)
 
 ### Morphology & Syntax
 
@@ -39,23 +39,23 @@ We were all enrolled as students of the [Institute of Formal and Applied Linguis
 
 ### Hidden Markov Models
 
-![](/public/img/hmm.gif)
+![Hidden Markov Model](/public/img/hmm.gif)
 
 ### Parsing
 
 ## Speech Recognition
 
-![](/public/img/waveform-zoom.gif)
+![Waveform](/public/img/waveform-zoom.gif)
 
-![](/public/img/wavenet-gen.gif)
+![Wavenet](/public/img/wavenet-gen.gif)
 
 ## Machine Translation
 
-![](/public/img/transform20fps.gif)
+![Transformer Model](/public/img/transform20fps.gif)
 
 ## Machine Learning
 
-![](/public/img/suggestions-demo.gif)
+![Suggestions Demo](/public/img/suggestions-demo.gif)
 
 ## Deep Learning
 
@@ -64,11 +64,11 @@ We were all enrolled as students of the [Institute of Formal and Applied Linguis
 ![Optimizers 3](/public/img/optimizers-3.gif)
 ![Optimizers 4](/public/img/optimizers-4.gif)
 
-![](/public/img/fox-transfer.gif)
+![Style Transfer](/public/img/fox-transfer.gif)
 
-![](/public/img/gan-faces.gif)
+![Face Generation](/public/img/gan-faces.gif)
 
-![](/public/img/self-driving-car-classification.gif)
+![Image Segmentation](/public/img/self-driving-car-classification.gif)
 
 Most of the classes for the first semester were compulsory. Data Structures I, Introduction to Complexity and Computability, Statistical Natural Language Processing I, General Linguistics, Natural Language Processing Technologies.
 
