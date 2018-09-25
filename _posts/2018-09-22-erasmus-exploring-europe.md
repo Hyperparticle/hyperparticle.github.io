@@ -53,6 +53,8 @@ The town is most beautiful in the fall when the leaves are changing hues.
 
 ## Vienna
 
+![Vienna Columns](/public/img/vienna-columns.jpg "Karlskirche, an 18th-century domed cathedral")
+
 Out of all of the cities I have seen, Vienna would be closest to the grand and ornate architecture of Prague, and perhaps even more so. Straight out of the central metro station, you are greeted with St. Stephen's Cathedral. The interior is equally as impressive.
 
 ![Vienna Cathedral](/public/img/vienna-cathedral.jpg "St. Stephen's Cathedral in the heart of Vienna")
