@@ -27,7 +27,7 @@ We were all enrolled as students of the [Institute of Formal and Applied Linguis
 
 ![Charles University Linguistics](/public/img/prague-charles-lecture.jpg "A linguistics lecture")
 
-Linguistics is the study of language, the funny things humans do when they want to pass a message to someone else (like the linguistics lecturer above). Language can come in many forms: from speaking, to writing, to hand signs. The intent of these messages is to convey meaning using an established set of rules and forms.
+Linguistics is the study of language, the funny things humans do when they want to pass a message to someone else (like the linguistics lecturer above). Language can come in many forms: from speaking and writing to hand signs. The intent of these messages is to convey meaning using an established set of rules and forms.
 
 ## Phonetics
 
@@ -51,7 +51,7 @@ On the lowest levels of human language is the interplay between words and senten
 
 ![Color Semantics](/public/img/color-semantics.png)
 
-Without meaning, language would be reduced to a bunch of noise. Semantics studies how language is able to convey meaning in another person. This is one of the areas of linguists know least about. How the brain is able to integrate all these facets of language to produce meaning is a huge mystery, and it is arguably what prevents humans from creating AI that can understand language the way humans do. But that isn't to say there hasn't been a lot of progress made in the field. There are many different approaches, from using rigid logical statements in mathematical proof, to cataloguing the relationships between words in a contextual web.
+Without meaning, language would be reduced to a bunch of noise. Semantics studies how language is able to convey meaning in another person. This is one of the areas of linguists know least about. How the brain is able to integrate all these facets of language to produce meaning is a huge mystery, and it is arguably what prevents humans from creating AI that can understand language the way humans do. But that isn't to say there hasn't been a lot of progress made in the field. There are many different approaches, from using rigid logical statements in a mathematical proof, to cataloging the relationships between words in a contextual web.
 
 ## Natural Language Processing
 
@@ -63,7 +63,7 @@ Linguistics is only the first half of computational linguistics. The other half 
 
 ![Optimizers 1](/public/img/optimizers-1.gif)
 
-The deep learning class at Charles University was hands down my favorite course. Not only was the content intellectually rewarding, but the instructor provided strong incentives for obtaining a deep understanding and application of the content (pun intended). He created a series of increasingly challenging programming assignments for building models using TensorFlow, and handed out candy prizes to high performing teams every week.
+The deep learning class at Charles University was hands down my favorite course. Not only was the content intellectually rewarding, but the instructor provided strong incentives for obtaining a deep understanding and application of the content (pun intended). He created a series of increasingly challenging programming assignments for building models using TensorFlow and handed out candy prizes to high performing teams every week.
 
 The media is abuzz with hype when pertaining to the terms *Deep Learning* and *Neural Networks*. Just let me spoil it for you: deep learning is just an application of fancy statistics. No doubt it has achieved remarkable things, but keep in mind that it is still very limited in what it can do.
 
@@ -76,7 +76,7 @@ During training, one can visualize how different optimizers try to get to a reas
 
 But before I bore you with details, here are a few more interesting applications of deep learning.
 
-Neural networks can quickly [transfer the style a painting to a given video](https://github.com/lengstrom/fast-style-transfer).
+Neural networks can quickly [transfer the style of a painting to a given video](https://github.com/lengstrom/fast-style-transfer).
 
 [![Style Transfer](/public/img/fox-transfer.gif)](https://github.com/lengstrom/fast-style-transfer)
 
@@ -88,7 +88,7 @@ Neural networks can [generate images of faces they have never seen before](https
 
 [![Face Generation](/public/img/gan-faces.gif)](https://github.com/torch/torch.github.io/blob/master/blog/_posts/2015-11-13-gan.md)
 
-And sometimes, neural networks can surprise everyone in new and unexpected behavior. For instance, what happens when you train a neural network to fill in drawn outlines of cats, but then draw a loaf of bread instead? You get [#breadcat #catloaf](https://twitter.com/ivymyt/status/834174687282241537).
+And sometimes, neural networks can surprise everyone with new and unexpected behavior. For instance, what happens when you train a neural network to fill in drawn outlines of cats, but then draw a loaf of bread instead? You get [#breadcat #catloaf](https://twitter.com/ivymyt/status/834174687282241537).
 
 [![Cat Loaf](/public/img/cat-loaf.png)](https://twitter.com/ivymyt/status/834174687282241537)
 
@@ -98,7 +98,7 @@ And sometimes, neural networks can surprise everyone in new and unexpected behav
 
 Speech is peculiarly interesting, as it all boils down to controlled vibrations (of air, mostly). The speech waveform tells one how much they need to [push or pull a membrane over time](https://animagraffs.com/loudspeaker/) to produce the same sound. Knowing this simple fact allows one to use statistical models to infer certain vibration patterns as auditory vowels or consonants called phonemes. Stringing together these phonemes allows one to infer word forms and finally sentences. This process is known as Automatic Speech Recognition, i.e., translating speech waveforms to text.
 
-On the flip side, it's also possible to translate text back into speech. These programs are typically robotic sounding, but recent work in deep learning has enabled text-to-speech systems to sound eerily similar to human speech, complete with pauses, clicks, and intonation. One of these approaches is called [WaveNet](https://deepmind.com/blog/wavenet-generative-model-raw-audio/), and applies a filter over previously generated audio to generate the next tiny segment of speech.
+On the flip side, it's also possible to translate text back into speech. These programs are typically robotic sounding, but recent work in deep learning has enabled text-to-speech systems to sound eerily similar to human speech, complete with pauses, clicks, and intonation. One of these approaches is called [WaveNet](https://deepmind.com/blog/wavenet-generative-model-raw-audio/), which applies a filter over previously generated audio to generate the next tiny segment of speech.
 
 [![Wavenet](/public/img/wavenet-gen.gif)](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
 
@@ -110,7 +110,7 @@ Take a listen for yourself. The audio below was generated entirely by a computer
 
 [![Transformer Model](/public/img/transform20fps.gif)](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html)
 
-It has become cheaper and more accurate than ever to translate from one language to another. Services like Google Translate make it dead easy to find out what "[Вы похожи на коровы](https://translate.google.com/#ru/en/%D0%92%D1%8B%20%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B8%20%D0%BD%D0%B0%20%D0%BA%D0%BE%D1%80%D0%BE%D0%B2%D1%8B)" means without resorting to a human translator. Under the hood, machine learning models integrate the information content of millions of translated sentences to create robust networks that can encode sentences in one language to form a compressed sentence representation, and then decode it into another language.
+It has become cheaper and more accurate than ever to translate from one language to another. Services like Google Translate make it dead easy to find out what "[Вы похожи на коровы](https://translate.google.com/#ru/en/%D0%92%D1%8B%20%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B8%20%D0%BD%D0%B0%20%D0%BA%D0%BE%D1%80%D0%BE%D0%B2%D1%8B)" means without resorting to a human translator. Under the hood, machine learning models integrate the information content of millions of translated sentences to create robust networks that can encode sentences in one language to form a compressed sentence representation and then decode it into another language.
 
 <!-- Most of the classes for the first semester were compulsory. Data Structures I, Introduction to Complexity and Computability, Statistical Natural Language Processing I, General Linguistics, Natural Language Processing Technologies. -->
 

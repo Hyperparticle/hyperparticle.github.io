@@ -15,7 +15,7 @@ title: >-
 1. **[Exploring Europe](/erasmus-exploring-europe)**
 1. [Closing Thoughts](/erasmus-mundus-conclusion)
 
-Now what's the point of going to Europe without exploring a bit? Here is a compilation of media artifacts in my favorite cities.
+Now, what's the point of going to Europe without exploring a bit? Here is a compilation of media artifacts in my favorite cities.
 
 ## Prague
 
@@ -39,7 +39,7 @@ Statues and art installations pepper the city. Franz Kafka, a famous writer born
 
 ## Karlovy Vary
 
-West of Prague is a famous spa town named [Karlovy Vary](https://www.karlovyvary.cz/en), in which so many Russians vacation there that the shop owners default to speaking in Russian. The town is built on top of a hot springs and features a dense forest of colorful trees in the fall.
+West of Prague is a famous spa town named [Karlovy Vary](https://www.karlovyvary.cz/en), in which so many Russians vacation there that the shop owners default to speaking in Russian. The town is built on top of some hot springs and features a dense forest of colorful trees in the fall.
 
 ![Karlovy Vary Center](/public/img/karlovy-vary-center.jpg "Near the center of Karlovy Vary")
 
@@ -55,7 +55,7 @@ The town is most beautiful in the fall when the leaves are changing hues.
 
 ![Vienna Columns](/public/img/vienna-columns.jpg "Karlskirche, an 18th-century domed cathedral")
 
-Out of all of the cities I have seen, Vienna would be closest to the grand and ornate architecture of Prague, and perhaps even more so. Straight out of the central metro station, you are greeted with St. Stephen's Cathedral. The interior is equally as impressive.
+Out of all of the cities I have seen, Vienna would be closest to the grand and ornate architecture of Prague, and perhaps even more so. Straight out of the central metro station, one is greeted with St. Stephen's Cathedral. The interior is equally as impressive.
 
 ![Vienna Cathedral](/public/img/vienna-cathedral.jpg "St. Stephen's Cathedral in the heart of Vienna")
 
@@ -77,7 +77,7 @@ The animated image you saw at [the top of this page](.) was Munich's New Town Ha
 
 Here is a person working on a sand sculpture.
 
-![Munich Sand Scupture](/public/img/munich-sand.jpg "A street performer working on a sand sculpture")
+![Munich Sand Sculpture](/public/img/munich-sand.jpg "A street performer working on a sand sculpture")
 
 Nothing to see here. Just a guy playing a giant mandolin.
 

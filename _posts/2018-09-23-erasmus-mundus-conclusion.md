@@ -15,7 +15,7 @@ title: >-
 1. [Exploring Europe](/erasmus-exploring-europe)
 1. **[Closing Thoughts](/erasmus-mundus-conclusion)**
 
-Upon discovering my status as a graduate student in Europe, my friends and family were puzzled as to why I chose to study there. Given my personality and past choices, I can see why. I would think the same thing prior to my final decision to go. I'm a shy introvert who is cautious of trying new things. Living in Europe for two years would be little short of launching myself into outer space... or so I thought.
+Upon discovering my status as a graduate student in Europe, my friends and family were puzzled as to why I chose to study there. Given my personality and past choices, I can see why. I would think the same thing prior to my final decision to go. I'm a shy introvert who is cautious about trying new things. Living in Europe for two years would be little short of launching myself into outer space... or so I thought.
 
 ## Weighing the Options
 
@@ -31,7 +31,7 @@ On the other hand, at no other point in my life would I get to do something quit
 
 ![Karlovy Vary Columns](/public/img/karlovy-vary-columns.jpg "A set of columns in Karlovy Vary")
 
-A program in Europe is not for the faint of heart. Be prepared for tough challenges. It requires a heap of grit and patience. In the end, was it worth it? I think so. It has been such a challenge, but I've lived all my life pursuing challenges. I have learned so much being independent in a foreign country. This is something not many people can say about themselves.
+A program in Europe is not for the faint of heart. Be prepared for tough challenges. It requires a heap of grit and patience. In the end, was it worth it? I think so. It has been such a challenge, but I've lived all my life pursuing challenges. I have learned so much about being independent in a foreign country. This is something not many people can say about themselves.
 
 I think often what other paths I could have taken, and other decisions I could have executed. In the end, there was no right or wrong answer. I don't know if I made the best choice, and neither do I care. It was an excellent one nonetheless. I would rather have made a choice than not made a choice at all, as illustrated by the following famous passage in *The Bell Jar*:
 
