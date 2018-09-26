@@ -31,7 +31,7 @@ On the other hand, at no other point in my life would I get to do something quit
 
 ![Karlovy Vary Columns](/public/img/karlovy-vary-columns.jpg "A set of columns in Karlovy Vary")
 
-A program in Europe is not for the faint of heart. Be prepared for tough challenges. It requires a heap of grit and patience. In the end, was it worth it? I think so. It has been such a challenge, but I've lived all my life pursuing challenges. I have learned so much about being independent in a foreign country, and I am having a lot of fun doing it.
+A program in Europe is not for the faint of heart. Be prepared for tough real-life challenges, some of which were harder than any programming or math problem I have ever been given. It requires a heap of grit and patience. In the end, was it worth it? I think so. It has been such a challenge, but I've lived all my life pursuing challenges. I have learned so much about being independent in a foreign country, and I am having a lot of fun doing it.
 
 I think often what other paths I could have taken, and other decisions I could have executed. In the end, there was no right or wrong answer. I don't know if I made the best choice, and neither do I care. It was an excellent one nonetheless. I would rather have made a choice than not made a choice at all, as illustrated by the following famous passage in *The Bell Jar*:
 
