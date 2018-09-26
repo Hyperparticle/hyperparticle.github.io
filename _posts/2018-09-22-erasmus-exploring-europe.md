@@ -37,7 +37,7 @@ Statues and art installations pepper the city. Franz Kafka, a famous writer born
 
 ![Prague Kafka](/public/img/prague-kafka.jpg "A rotating statue of Kafka.")
 
-One thing that photographers often neglect to show is just how much graffiti is in the city, even in the touristy areas. I don't quite understand why people would mar such beauty with hideous markings, but it seems to stem from the culture of the region. Not to say all graffiti is bad, but I would hardly call *this* good art.
+One thing that photographers often neglect to show is just how much graffiti is in the city, even in the touristy areas. I don't quite understand why people would mar and neglect such glamor with hideous markings, but it seems to stem from the culture of the region. Not to say all graffiti is bad, but I would hardly call *this* good art.
 
 ![Prague Graffiti](/public/img/prague-graffiti.jpg "Lots of graffiti is painted across Prague")
 
