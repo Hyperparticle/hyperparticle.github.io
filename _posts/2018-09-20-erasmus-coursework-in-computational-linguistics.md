@@ -17,11 +17,11 @@ title: >-
 
 ## The LCT Group at Charles University
 
-If there were any single factor that got me through the hard parts of the LCT program, it would have to be my LCT classmates. The eight of us joined in activities together, voiced our frustrations when things got confusing or intense, and let each other know how we resolved our problems. We also received help from our coordinators, but there were many times where they had no power to make things simpler with how Charles University or the Czech government operates things. I'm sure if I had another year to stay at Charles University, things would go much smoother, as it was a big learning process at first. Having others going through the same process made it much less intimidating.
-
-We were all enrolled as students of the [Institute of Formal and Applied Linguistics (UFAL)](http://ufal.mff.cuni.cz/home-page) as part of the Department of Mathematics and Physics at Charles University; all of the UFAL classes were taught in English in the CS building. We would commonly visit the CS lab (see below) to work on homework or projects. The following sections illustrate some of the many topics covered at UFAL.
+If there were any single factor that got me through the hard parts of the program, it would have to be my LCT classmates. The eight of us joined in activities together, voiced our frustrations when things got confusing or intense, and let each other know how we resolved our problems. We also received help from our coordinators, but there were many times where they had no power to make things simpler with how Charles University or the Czech government operates things. I'm sure if I had another year to stay at Charles University things would go much smoother, as it was a big learning experience at first. Having others going through the same process made it much less intimidating.
 
 ![Charles University Lab](/public/img/prague-charles-lab.jpg "The lab inside the CS building")
+
+We were all enrolled as students of the [Institute of Formal and Applied Linguistics (UFAL)](http://ufal.mff.cuni.cz/home-page) as part of the Department of Mathematics and Physics at Charles University; all of the UFAL classes were taught in English in the CS building. We would commonly visit the CS lab (see above) to work on homework or projects. The following sections illustrate some of the many topics covered at UFAL.
 
 ## Linguistics
 
@@ -31,7 +31,7 @@ Linguistics is the study of language, the funny things humans do when they want 
 
 ## Phonetics
 
-![Mouth x-ray](/public/img/mouth-xray.gif)
+![Mouth x-ray](/public/img/mouth-xray.gif "An x-ray of a speaking person")
 
 The earliest forms of these messages can be traced back to speech: the way humans contort the shape of their mouth and throat to produce different noises. Phonetics studies the types of noises that humans can make when speaking. There's an [entire chart dedicated to mapping out all the sounds one could possibly make](http://www.ipachart.com/) (unless you're an AI reading this, of course).
 
@@ -49,21 +49,21 @@ On the lowest levels of human language is the interplay between words and senten
 
 ## Semantics
 
-![Color Semantics](/public/img/color-semantics.png)
+![Color Semantics](/public/img/color-semantics.png "What are the semantics of color?")
 
 Without meaning, language would be reduced to a bunch of noise. Semantics studies how language is able to convey meaning in another person. This is one of the areas of linguists know least about. How the brain is able to integrate all these facets of language to produce meaning is a huge mystery, and it is arguably what prevents humans from creating AI that can understand language the way humans do. But that isn't to say there hasn't been a lot of progress made in the field. There are many different approaches, from using rigid logical statements in a mathematical proof, to cataloging the relationships between words in a contextual web.
 
 ## Natural Language Processing
 
-![Suggestions Demo](/public/img/suggestions-demo.gif)
+![Suggestions Demo](/public/img/suggestions-demo.gif "Text annotation tools exist to make people's lives easier")
 
-Linguistics is only the first half of computational linguistics. The other half requires a firm understanding of how computers work. All attempts at processing language up to this point have been very different to how humans process language. This isn't always a limitation, and can sometimes be a strength. Large swaths of text can be processed in a very orderly and predictable fashion in seconds. Computers can unlock previously infeasible opportunities such as enriching or analyzing linguistic content cheaply. Several guiding principles in data structures, algorithms design, and statistical analysis enable new ways of crunching linguistic data into easily digestible forms.
+Linguistics is only the first half of computational linguistics. The other half requires a firm understanding of how computers work. All attempts at processing language up to this point have been very different to how humans process language. This isn't always a limitation, and can sometimes be a strength. Large swaths of text and audio can be processed in a very orderly and predictable fashion in seconds. Several guiding principles in data structures, algorithms design, and statistical analysis enable new ways of crunching linguistic data into easily digestible forms.
 
 ## Deep Learning
 
-![Optimizers 1](/public/img/optimizers-1.gif)
+![Optimizers 1](/public/img/optimizers-1.gif "A visual example of optimization")
 
-The deep learning class at Charles University was hands down my favorite course. Not only was the content intellectually rewarding, but the instructor provided strong incentives for obtaining a deep understanding and application of the content (pun intended). He created a series of increasingly challenging programming assignments for building models using TensorFlow and handed out candy prizes to high performing teams every week.
+The [deep learning class at Charles University](https://ufal.mff.cuni.cz/courses/npfl114/1718-summer) was hands down my favorite course. Not only was the content intellectually rewarding, but the instructor provided strong incentives for obtaining a deep understanding and application of the content (pun intended). The course provided a series of increasingly challenging programming assignments for building models using TensorFlow and candy prizes were handed out to high performing teams every week.
 
 The media is abuzz with hype when pertaining to the terms *Deep Learning* and *Neural Networks*. Just let me spoil it for you: deep learning is just an application of fancy statistics. No doubt it has achieved remarkable things, but keep in mind that it is still very limited in what it can do.
 
@@ -71,36 +71,36 @@ Deep learning is an approach to machine learning, where given a list of inputs a
 
 During training, one can visualize how different optimizers try to get to a reasonable set of solutions. I like to imagine reaching a solution as a ball rolling down a bumpy hill.
 
-![Optimizers 2](/public/img/optimizers-2.gif)
-![Optimizers 4](/public/img/optimizers-4.gif)
+![Optimizers 2](/public/img/optimizers-2.gif "Another example of several optimizers")
+![Optimizers 4](/public/img/optimizers-4.gif "A 3D view of several optimizers")
 
 But before I bore you with details, here are a few more interesting applications of deep learning.
 
 Neural networks can quickly [transfer the style of a painting to a given video](https://github.com/lengstrom/fast-style-transfer).
 
-[![Style Transfer](/public/img/fox-transfer.gif)](https://github.com/lengstrom/fast-style-transfer)
+[![Style Transfer](/public/img/fox-transfer.gif)](https://github.com/lengstrom/fast-style-transfer "Fast style transfer with neural networks")
 
 Neural networks can segment an image into constituent parts and classify them. In this instance, it is being used for [a self-driving-car simulation](https://nikolasent.github.io/).
 
-![Image Segmentation](/public/img/self-driving-car-classification.gif)
+![Image Segmentation](/public/img/self-driving-car-classification.gif "Image segmentation for self-driving cars")
 
 Neural networks can [generate images of faces they have never seen before](https://github.com/torch/torch.github.io/blob/master/blog/_posts/2015-11-13-gan.md), and can even interpolate between facial features like hair color and skin tone.
 
-[![Face Generation](/public/img/gan-faces.gif)](https://github.com/torch/torch.github.io/blob/master/blog/_posts/2015-11-13-gan.md)
+[![Face Generation](/public/img/gan-faces.gif)](https://github.com/torch/torch.github.io/blob/master/blog/_posts/2015-11-13-gan.md "A generative adversarial network (GAN) generating faces")
 
 And sometimes, neural networks can surprise everyone with new and unexpected behavior. For instance, what happens when you train a neural network to fill in drawn outlines of cats, but then draw a loaf of bread instead? You get [#breadcat #catloaf](https://twitter.com/ivymyt/status/834174687282241537).
 
-[![Cat Loaf](/public/img/cat-loaf.png)](https://twitter.com/ivymyt/status/834174687282241537)
+[![Cat Loaf](/public/img/cat-loaf.png)](https://twitter.com/ivymyt/status/834174687282241537 "I am bread")
 
 ## Speech Processing
 
-![Waveform](/public/img/waveform-zoom.gif)
+![Waveform](/public/img/waveform-zoom.gif "A visual example of a waveform")
 
-Speech is peculiarly interesting, as it all boils down to controlled vibrations (of air, mostly). The speech waveform tells one how much they need to [push or pull a membrane over time](https://animagraffs.com/loudspeaker/) to produce the same sound. Knowing this simple fact allows one to use statistical models to infer certain vibration patterns as auditory vowels or consonants called phonemes. Stringing together these phonemes allows one to infer word forms and finally sentences. This process is known as Automatic Speech Recognition, i.e., translating speech waveforms to text.
+Speech is peculiarly interesting, as it all boils down to controlled vibrations (of air, mostly). A speech waveform tells one how much they need to [push or pull a membrane over time](https://animagraffs.com/loudspeaker/) to produce the same sound. Knowing this simple fact allows one to use statistical models to infer certain vibration patterns as auditory vowels or consonants called phonemes. Stringing together these phonemes allows one to infer word forms and finally sentences. This process is known as Automatic Speech Recognition, i.e., translating speech waveforms to text.
 
 On the flip side, it's also possible to translate text back into speech. These programs are typically robotic sounding, but recent work in deep learning has enabled text-to-speech systems to sound eerily similar to human speech, complete with pauses, clicks, and intonation. One of these approaches is called [WaveNet](https://deepmind.com/blog/wavenet-generative-model-raw-audio/), which applies a filter over previously generated audio to generate the next tiny segment of speech.
 
-[![Wavenet](/public/img/wavenet-gen.gif)](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
+[![Wavenet](/public/img/wavenet-gen.gif)](https://deepmind.com/blog/wavenet-generative-model-raw-audio/ "A visual demonstration of WaveNet audio generation")
 
 Take a listen for yourself. The audio below was generated entirely by a computer.
 
@@ -108,7 +108,7 @@ Take a listen for yourself. The audio below was generated entirely by a computer
 
 ## Machine Translation
 
-[![Transformer Model](/public/img/transform20fps.gif)](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html)
+[![Transformer Model](/public/img/transform20fps.gif)](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html "A visual demonstration of Google's Transformer model")
 
 It has become cheaper and more accurate than ever to translate from one language to another. Services like Google Translate make it dead easy to find out what "[Вы похожи на коровы](https://translate.google.com/#ru/en/%D0%92%D1%8B%20%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B8%20%D0%BD%D0%B0%20%D0%BA%D0%BE%D1%80%D0%BE%D0%B2%D1%8B)" means without resorting to a human translator. Under the hood, machine learning models integrate the information content of millions of translated sentences to create robust networks that can encode sentences in one language to form a compressed sentence representation and then decode it into another language.
 

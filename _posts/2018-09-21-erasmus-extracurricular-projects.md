@@ -15,7 +15,7 @@ title: >-
 1. [Exploring Europe](/erasmus-exploring-europe)
 1. [Closing Thoughts](/erasmus-mundus-conclusion)
 
-To keep myself busy, I also tried my hand at a few personal projects when I wasn't doing any assignments.
+To keep myself busy, I also tried my hand at a few personal projects when I wasn't doing any assignments. Click the links in the section titles to view more information about each project.
 
 ## [Nodulus](/nodulus)
 
@@ -30,9 +30,9 @@ Nodulus has been released for [Android](https://play.google.com/store/apps/detai
 <!-- [![Who Would Win](/public/img/who-would-win.jpg)](https://github.com/Hyperparticle/one-pixel-attack-keras "Who would win?") -->
 [![One Pixel Prediction](/public/img/one-pixel-pred.png)](https://github.com/Hyperparticle/one-pixel-attack-keras "One Pixel Attack demonstration")
 
-How simple is it to cause a deep neural network to misclassify an image if an attacker is only allowed to modify the color of one pixel and only see the prediction probability? Turns out it is very simple. In many cases, an attacker can even cause the network to return any answer they want. By using an Evolutionary Algorithm called [Differential Evolution](https://en.wikipedia.org/wiki/Differential_evolution), an attacker can iteratively generate adversarial images to try to minimize the confidence (probability) of the neural network's classification. See the animated image at the top for a visualization. This project uses [Keras](https://keras.io/) to create a neural network and demonstrate the attack on the Cifar10 dataset.
+How simple is it to cause a deep neural network to misclassify an image if an attacker is only allowed to modify the color of one pixel and only see the prediction probability? Turns out it is very simple. In many cases, an attacker can even cause the network to return any answer they want. By using an Evolutionary Algorithm called [Differential Evolution](https://en.wikipedia.org/wiki/Differential_evolution), an attacker can iteratively generate adversarial images to try to minimize the confidence (probability) of the neural network's classification. See the animated image at the top of this page for a visualization. This project uses [Keras](https://keras.io/) to create a neural network and demonstrates the attack on the Cifar10 dataset.
 
-I completed the project from start to finish in about a week during the February break period between semesters. The intent was to gain experience with a deep learning framework while also reimplementing a recent deep learning paper that didn't provide source code. What surprised me the most is that the project amassed over [800 GitHub stars](https://github.com/Hyperparticle/one-pixel-attack-keras) in just a few days. I suppose it's mainly due to the nice visualizations and the simple and intuitive explanations provided in both the README and the tutorial Jupyter notebook.
+I completed the project from start to finish in about a week during the February break period between semesters. The intent was to gain experience with a deep learning framework while also reimplementing [a recent deep learning paper](https://arxiv.org/pdf/1710.08864.pdf) that didn't provide source code. What surprised me the most is that the project amassed over [800 GitHub stars](https://github.com/Hyperparticle/one-pixel-attack-keras) in just a few days. I suppose it's mainly due to the nice visualizations and the simple and intuitive explanations provided in both the README and the tutorial Jupyter notebook.
 
 ## [LemmaTag](https://github.com/Hyperparticle/LemmaTag)
 
@@ -40,20 +40,11 @@ I completed the project from start to finish in about a week during the February
 
 As indicated earlier, one of my favorite experiences in the LCT program at Charles University was the Deep Learning class. Each week, all students were entered in a new competition. A student would gain extra credit and a candy bar (see pictured above) if their neural network model accuracy ranked in the top three compared to other students. Two of those tasks were very much open-ended: one task had us try to beat state-of-the-art in Czech tagging, and the next week's task had us try to beat state-of-the-art in Czech lemmatization. For the uninitiated, [part-of-speech tagging](https://en.wikipedia.org/wiki/Part-of-speech_tagging) is the process of classifying each word in a sentence as a noun, verb, etc., and [lemmatization](https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html) is the process of finding the dictionary or root form of a word (*eat* is the root form of *ate*).
 
-After some crazy head scratching and heavy model tweaking, I not only managed to win candy bars in both tasks, but I was among the 3-4 students who managed to beat the best-published accuracy for Czech at that time. I notified the professor to try and collaborate on a paper together, and he pointed me to another enthusiastic Czech student. In less than 10 days, we whipped up a short paper for [EMNLP 2018](http://emnlp2018.org/), which was [recently accepted](https://github.com/Hyperparticle/LemmaTag). I look forward to presenting a poster on the research project in Brussels, Belgium.
-
-[![LemmaTag Model](/public/img/lemmatag-model.png)](https://github.com/Hyperparticle/LemmaTag "An overview of the LemmaTag network")
-
-There are two main ideas we contribute to obtaining state-of-the-art results in several languages:
-
-1. Since part-of-speech tagging and lemmatization are related tasks, sharing the initial layers of the network is mutually beneficial. This results in higher accuracy and requires less training time.
-2. The lemmatizer can further improve its accuracy by looking at the tagger's predictions, i.e., taking the output of the tagger as an additional lemmatizer input.
-
 [![Tag Components](/public/img/tag-components.png)](https://github.com/Hyperparticle/LemmaTag "Czech Tag Components")
 
-Not all languages are alike when part-of-speech tagging. For instance, the Czech language has over 1500 different types of tags, while English has about 50. This discrepancy is due to Czech being a morphologically-rich language, which alters the endings of its words to indicate information like case, number, and gender. English, on the other hand, relies heavily on the positioning of a word relative to other words to convey this information. The image above shows how Czech tags are split up into several subcategories that delineate a word's morphology, along with the number of unique values in each subcategory.
+After some crazy head scratching and heavy model tweaking, I not only managed to win candy bars in both tasks, but I was among the 3-4 students who managed to beat the best-published accuracy for Czech at that time. I notified the professor to try and collaborate on a paper together, and he pointed me to another enthusiastic Czech student who was willing to help. In less than 10 days in May, we whipped up a short paper for the [EMNLP 2018 Conference](http://emnlp2018.org/), which was [recently accepted](https://github.com/Hyperparticle/LemmaTag). I look forward to presenting a poster on the research project in Brussels, Belgium. For more technical information, see the [GitHub repo](https://github.com/Hyperparticle/LemmaTag).
 
-LemmaTag takes advantage of this by also predicting each tag subcategory and feeding this information to the lemmatizer (if the subcategories exist for the language). This modification improves both tagging and lemmatizing accuracies.
+[![LemmaTag Model](/public/img/lemmatag-model.png)](https://github.com/Hyperparticle/LemmaTag "An overview of the LemmaTag network")
 
 ---
 

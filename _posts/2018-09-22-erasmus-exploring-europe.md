@@ -19,7 +19,7 @@ Now, what's the point of going to Europe without exploring a bit? Here is a comp
 
 ## Prague
 
-Here's another view of Prague from the [Petřín Lookout Tower](https://www.prague.eu/en/object/places/116/petrin-lookout-tower-petrinska-rozhledna). Feel free to shift+click the image below to get a sense of scale.
+Here's another view of Old Town in Prague from the [Petřín Lookout Tower](https://www.prague.eu/en/object/places/116/petrin-lookout-tower-petrinska-rozhledna). Feel free to shift+click the image below to get a sense of scale.
 
 [![Prague View](/public/img/prague-petrin-view.jpg "Another view from the Petřín Lookout Tower.")](/public/img/prague-petrin-view.jpg)
 
@@ -36,6 +36,10 @@ Street performers like to flock onto [Charles Bridge](http://www.myczechrepublic
 Statues and art installations pepper the city. Franz Kafka, a famous writer born in Prague, is a long-time favorite.
 
 ![Prague Kafka](/public/img/prague-kafka.jpg "A rotating statue of Kafka.")
+
+One thing that photographers often neglect to show is just how much graffiti is in the city, even in the touristy areas. I don't quite understand why people would mar such beauty with hideous markings, but it seems to stem from the culture of the region. Not to say all graffiti is bad, but I would hardly call *this* good art.
+
+![Prague Graffiti](/public/img/prague-graffiti.jpg "Lots of graffiti is painted across Prague")
 
 ## Karlovy Vary
 
