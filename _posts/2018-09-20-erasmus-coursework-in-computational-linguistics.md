@@ -17,7 +17,7 @@ title: >-
 
 ## The LCT Group at Charles University
 
-If there were any single factor that got me through the hard parts of the program, it would have to be my LCT classmates. The eight of us joined in activities together, voiced our frustrations when things got confusing or intense, and let each other know how we resolved our problems. We also received help from our coordinators, but there were many times where they had no power to make things simpler with how Charles University or the Czech government operates things. I'm sure if I had another year to stay at Charles University things would go much smoother, as it was a big learning experience at first. Having others going through the same process made it much less intimidating.
+If there were any single factor that got me through the hard parts of the program in Prague, it would have to be my LCT classmates. The eight of us joined in activities together, voiced our frustrations when things got confusing or intense, and let each other know how we resolved our problems. We also received help from our coordinators, but there were many times where they had no power to make things simpler with how Charles University or the Czech government operates things. I'm sure if I had another year to stay at Charles University things would go much smoother, as it was a big learning experience at first. Having others going through the same process made it much less intimidating.
 
 ![Charles University Lab](/public/img/prague-charles-lab.jpg "The lab inside the CS building")
 
