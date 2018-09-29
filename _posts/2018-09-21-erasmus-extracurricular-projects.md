@@ -15,7 +15,7 @@ title: >-
 1. [Exploring Europe](/erasmus-exploring-europe)
 1. [Closing Thoughts](/erasmus-mundus-conclusion)
 
-To keep myself busy, I also tried my hand at a few personal projects when I wasn't doing any assignments. Click the links in the section titles to view more information about each project.
+To keep myself busy, I also tried my hand at a few personal projects when I wasn't doing any assignments or traveling about. Click the links in the section titles to view more information about each project.
 
 ## [Nodulus](/nodulus)
 
