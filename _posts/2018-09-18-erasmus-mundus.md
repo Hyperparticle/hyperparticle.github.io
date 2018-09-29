@@ -29,7 +29,7 @@ Computers have quickly become the mediators of language in our daily lives, from
 
 I first learned of computational linguistics from a good friend of mine, [Dr. Casey Kennington](https://coen.boisestate.edu/faculty-staff/caseykennington/), an assistant professor at Boise State University. He told me that he graduated from the [Erasmus Mundus](https://ec.europa.eu/programmes/erasmus-plus/opportunities/individuals/students/erasmus-mundus-joint-master-degrees_en) program in [Language & Communication Technologies (LCT)](https://lct-master.org/), and shared with me all the cool places in Europe he got to visit. Prior to this, I had reservations, thinking that I would be better off working in the industry. But the idea of exploring some beautiful landscapes while earning a degree in the field of artificial intelligence (which I had a growing interest in) was too enticing to pass up.
 
-So I joined the Erasmus Mundus European Master's Program in LCT, and have recently completed two of the program's four semesters at [Charles University](http://ufal.mff.cuni.cz/home-page) in Prague. Getting situated in the Czech Republic was not easy. The necessary bureaucratic paperwork was slow and cumbersome. But eventually, with the help of wonderful LCT classmates and coordinators, the paper shuffling ceased.
+So I joined the Erasmus Mundus European Master's Program in LCT, and have recently completed two of the program's four semesters at Charles University in Prague. Getting situated in the Czech Republic was not easy. The necessary bureaucratic paperwork was slow and cumbersome. But eventually, with the help of wonderful LCT classmates and coordinators, the paper shuffling ceased.
 
 ![Prague Castle](/public/img/prague-castle.jpg "Prague Castle")
 
@@ -45,6 +45,6 @@ And finally, when in Europe, why not travel around? Cheap bus rides could take a
 
 ---
 
-I now look forward to spending the remaining two semesters at [Saarland University](https://www.uni-saarland.de/en/master/study-programmes/lang-lit/lst/description.html) in Germany. So let's get into the details of what a graduate program in Europe feels like.
+I now look forward to spending the remaining two semesters at Saarland University in Germany. So let's get into the details of what a graduate program in Europe feels like.
 
 ## [Part 2: Living in Prague](/erasmus-living-in-prague)
