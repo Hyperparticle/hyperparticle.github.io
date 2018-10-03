@@ -47,4 +47,13 @@ And finally, when in Europe, why not travel around? Cheap bus rides could take a
 
 I now look forward to spending the remaining two semesters at Saarland University in Germany. So let's get into the details of what a graduate program in Europe feels like.
 
+Click the link below to go to part 2.
+
 ## [Part 2: Living in Prague](/erasmus-living-in-prague)
+
+1. **[Introduction](/erasmus-mundus)**
+1. [Living in Prague](/erasmus-living-in-prague)
+1. [Coursework in Computational Linguistics](/erasmus-coursework-in-computational-linguistics)
+1. [Extracurricular Projects](/erasmus-extracurricular-projects)
+1. [Exploring Europe](/erasmus-exploring-europe)
+1. [Closing Thoughts](/erasmus-mundus-conclusion)
