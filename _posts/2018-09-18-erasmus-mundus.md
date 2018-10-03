@@ -51,7 +51,7 @@ Click the link below to go to part 2.
 
 ## [Part 2: Living in Prague](/erasmus-living-in-prague)
 
-1. **[Introduction](/erasmus-mundus)**
+1. **[Introduction](/erasmus-mundus)** << You are here
 1. [Living in Prague](/erasmus-living-in-prague)
 1. [Coursework in Computational Linguistics](/erasmus-coursework-in-computational-linguistics)
 1. [Extracurricular Projects](/erasmus-extracurricular-projects)
