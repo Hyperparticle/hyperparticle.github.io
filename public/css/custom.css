@@ -93,3 +93,9 @@
   color: white;
   margin-bottom: 0.5rem;
 }
+
+.about-image {
+  max-height:14rem;
+  float:right;
+  margin: 5px;
+}
