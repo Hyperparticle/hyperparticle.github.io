@@ -3,7 +3,8 @@ layout: page
 title: About
 ---
 
-<img src="/public/img/dan-stencil-portrait.png" style="max-height:18rem;float:right;" alt="Dan's Portrait">
+<!-- <img src="/public/img/dan-stencil-portrait.png" style="max-height:18rem;float:right;" alt="Dan's Portrait"> -->
+<img src="/public/img/dan-simple-portrait.jpg" style="max-height:15rem;float:right;" alt="Dan's Portrait">
 
 ## Dan Kondratyuk
 
