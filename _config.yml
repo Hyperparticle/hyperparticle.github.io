@@ -14,7 +14,7 @@ author:
   name:           'Dan Kondratyuk'
   url:            https://hyperparticle.com
 
-paginate:         5
+paginate:         10
 
 # Default vars
 defaults:
