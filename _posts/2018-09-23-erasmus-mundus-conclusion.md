@@ -14,7 +14,7 @@ image: /public/img/lct-2018.jpg
 1. [Coursework in Computational Linguistics](/erasmus-coursework-in-computational-linguistics)
 1. [Extracurricular Projects](/erasmus-extracurricular-projects)
 1. [Exploring Europe](/erasmus-exploring-europe)
-1. **[Closing Thoughts](/erasmus-mundus-conclusion)**
+1. **[Closing Thoughts](/erasmus-mundus-conclusion)** << You are here
 
 Upon discovering my status as a graduate student in Europe, my friends and family were puzzled as to why I chose to study there. Given my personality and past choices, I can see why. I would think the same thing prior to my final decision to go. I'm a shy introvert who is cautious about trying new things. Living in Europe for two years would be little short of launching myself into outer space... or so I thought.
 

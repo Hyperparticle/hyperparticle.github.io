@@ -10,7 +10,7 @@ image: /public/img/prague-housing.jpg
 ![Prague I Study Here](/public/img/prague-i-study-here.jpg "I study here!")
 
 1. [Introduction](/erasmus-mundus)
-1. **[Living in Prague](/erasmus-living-in-prague)**
+1. **[Living in Prague](/erasmus-living-in-prague)** << You are here
 1. [Coursework in Computational Linguistics](/erasmus-coursework-in-computational-linguistics)
 1. [Extracurricular Projects](/erasmus-extracurricular-projects)
 1. [Exploring Europe](/erasmus-exploring-europe)

@@ -13,7 +13,7 @@ image: /public/img/munich-cathedral.gif
 1. [Living in Prague](/erasmus-living-in-prague)
 1. [Coursework in Computational Linguistics](/erasmus-coursework-in-computational-linguistics)
 1. [Extracurricular Projects](/erasmus-extracurricular-projects)
-1. **[Exploring Europe](/erasmus-exploring-europe)**
+1. **[Exploring Europe](/erasmus-exploring-europe)** << You are here
 1. [Closing Thoughts](/erasmus-mundus-conclusion)
 
 Now, what's the point of going to Europe without exploring a bit? Here is a compilation of media artifacts in my favorite cities.

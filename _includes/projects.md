@@ -4,7 +4,7 @@
 - [Nodulus](/nodulus/) - An open source puzzle game for mobile
 - [Graph NLU](https://github.com/Hyperparticle/graph-nlu) - A dialog system that leverages the power of graph databases -->
 
-[LemmaTag](https://github.com/Hyperparticle/LemmaTag) • [Augi](https://helloaugi.com/) • [One Pixel Attack Keras](https://github.com/Hyperparticle/one-pixel-attack-keras) • [Nodulus](/nodulus/) • [Graph NLU](https://github.com/Hyperparticle/graph-nlu)
+[LemmaTag](https://github.com/Hyperparticle/LemmaTag) • [One Pixel Attack Keras](https://github.com/Hyperparticle/one-pixel-attack-keras) • [Augi](https://helloaugi.com/) • [Nodulus](/nodulus/) • [Graph NLU](https://github.com/Hyperparticle/graph-nlu)
 
 ---
 

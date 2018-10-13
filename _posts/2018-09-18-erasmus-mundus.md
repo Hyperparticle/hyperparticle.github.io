@@ -15,7 +15,7 @@ I have now completed a year of graduate studies at Charles University in Prague,
 
 The following post details my motivations for studying as a Master's student in Europe, as well as my first-year experiences at Charles University. The list below indicates the topics I will cover. Hover over the images in this post to read their captions.
 
-1. **[Introduction](/erasmus-mundus)**
+1. **[Introduction](/erasmus-mundus)** << You are here
 1. [Living in Prague](/erasmus-living-in-prague)
 1. [Coursework in Computational Linguistics](/erasmus-coursework-in-computational-linguistics)
 1. [Extracurricular Projects](/erasmus-extracurricular-projects)
