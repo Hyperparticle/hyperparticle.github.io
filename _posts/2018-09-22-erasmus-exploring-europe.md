@@ -4,6 +4,7 @@ title: >-
   Erasmus Mundus Retrospective:
   <br>
   Exploring Europe
+image: /public/img/munich-cathedral.gif
 ---
 
 ![New Town Hall](/public/img/munich-cathedral.gif "Munich's New Town Hall in Marienplatz")

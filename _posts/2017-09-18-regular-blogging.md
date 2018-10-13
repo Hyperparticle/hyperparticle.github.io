@@ -2,6 +2,7 @@
 layout: post
 title: >-
   No One Will Read This, but I Don't Care 
+image: /public/img/feynman-diagram.png
 ---
 
 ![Feynman Diagram](/public/img/feynman-diagram.png)

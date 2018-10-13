@@ -4,6 +4,7 @@ title: >-
   Erasmus Mundus Retrospective:
   <br>
   Charles University in Prague, Year 1
+image: /public/img/prague-city-aerial.jpg
 ---
 
 ![Prague Aerial](/public/img/prague-city-aerial.jpg "A view of Prague from the Petřín Lookout Tower")

@@ -4,6 +4,7 @@ title: >-
   Erasmus Mundus Retrospective:
   <br>
   Closing Thoughts
+image: /public/img/lct-2018.jpg
 ---
 
 ![LCT 2018](/public/img/lct-2018.jpg "LCT Group Meeting 2018")

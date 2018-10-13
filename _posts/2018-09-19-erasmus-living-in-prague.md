@@ -4,6 +4,7 @@ title: >-
   Erasmus Mundus Retrospective:
   <br>
   Living in Prague
+image: /public/img/prague-housing.jpg
 ---
 
 ![Prague I Study Here](/public/img/prague-i-study-here.jpg "I study here!")

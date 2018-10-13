@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My Personal Experience with the Deep Learning Nanodegree Foundation Udacity Course
+image: /public/img/nd101.png
 ---
 
 ![Udacity Deep Learning](/public/img/nd101.png)

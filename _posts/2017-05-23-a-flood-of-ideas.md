@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Flood of Ideas
+image: /public/img/idea-cloud.png
 ---
 
 ![Idea Cloud](/public/img/idea-cloud.png)

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How changing ‘localhost’ to ‘127.0.0.1’ sped up my test suite by 18x
+image: /public/img/gears-transparent.png
 ---
 
 ![Gears](/public/img/gears-transparent.png)

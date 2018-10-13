@@ -1,6 +1,7 @@
 ---
 layout: post
 title: New Website
+image: /public/img/website-construction.png
 ---
 
 ![Website Construction](/public/img/website-construction.png)

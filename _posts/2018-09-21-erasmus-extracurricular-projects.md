@@ -4,6 +4,7 @@ title: >-
   Erasmus Mundus Retrospective:
   <br>
   Extracurricular Projects
+image: /public/img/ackley.gif
 ---
 
 [![Ackley](/public/img/ackley.gif)](https://github.com/Hyperparticle/one-pixel-attack-keras "A visualization of differential evolution in the One Pixel Attack")

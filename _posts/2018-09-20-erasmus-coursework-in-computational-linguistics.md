@@ -4,6 +4,7 @@ title: >-
   Erasmus Mundus Retrospective:
   <br>
   Coursework in Computational Linguistics 
+image: /public/img/prague-charles-guest-lecture.jpg
 ---
 
 ![Charles University Guest Lecture](/public/img/prague-charles-guest-lecture.jpg "A guest lecturer at Charles University")

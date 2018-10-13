@@ -6,6 +6,10 @@
   display: flex;
   align-items: center;
   margin-bottom: 20px;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
 }
 
 .post-meta .avatar {
@@ -50,13 +54,38 @@
 
 @media only screen and (max-width: 768px) {
   .mobile-message {
-    display: block;
+    display: block
   }
 }
 
-.post-meta {
+.post-preview {
+  border-radius: 5px;
+  min-height: 280px;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  margin-bottom: .5rem;
+  text-shadow: 2px 2px 6px rgba(0,0,0,0.2);
+}
+
+.post-preview-title {
+  background-color: rgba(0,0,0,0.65);
+  position: absolute;
+  bottom: 0;
+  padding: 1rem 1rem 0 1rem;
+  border-bottom-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.post-preview-title h1 {
+  color: white;
+  margin-bottom: 1rem;
+}
+
+.post-preview .post-date {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-weight: 400;
-  color: #313131;
   letter-spacing: -.025rem;
+  color: white;
+  margin-bottom: 0.5rem;
 }

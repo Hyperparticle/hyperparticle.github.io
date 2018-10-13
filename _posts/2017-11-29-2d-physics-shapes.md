@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Draw 2D Physics Shapes in Unity3D
+image: /public/img/draw-shapes-unity-preview-short.gif
 ---
 
 <div class="iframe-rounded">
