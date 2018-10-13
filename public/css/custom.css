@@ -53,3 +53,10 @@
     display: block;
   }
 }
+
+.post-meta {
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
