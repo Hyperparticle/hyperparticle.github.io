@@ -20,7 +20,9 @@ I like to keep myself occupied with lots of [interesting projects](/projects/). 
 
 Other projects include [Nodulus](/nodulus/), an open source puzzle game for mobile, [One Pixel Attack Keras](https://github.com/Hyperparticle/one-pixel-attack-keras), a Keras implementation that demonstrates that convolutional networks can be fooled by changing one pixel in an image, and [LemmaTag](https://github.com/Hyperparticle/LemmaTag), a neural network model that jointly part-of-speech tags and lemmatizes sentences, achieving state-of-the-art accuracy in morphologically rich languages (i.e., Czech, German, and Arabic).
 
-Send me a message on [Twitter (@hyperparticle)](https://twitter.com/hyperparticle) and I'll be happy to respond when I have the time.
+Send me a message on [Twitter (@hyperparticle)](https://twitter.com/hyperparticle) and I'll be happy to respond when I have the time. Or you can send me an email.
+
+`dankondratyuk ~at~ u ~dot~ boisestate ~dot~ edu`
 
 You can find my other accounts at the following links.
 
