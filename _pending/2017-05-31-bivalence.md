@@ -56,3 +56,8 @@ Not very useful, is it? Yet it is both consistent and contradiction-free.
 
 - [Intuitionistic logic](https://en.wikipedia.org/wiki/Intuitionistic_logic)
 - [Intermediate logic](https://en.wikipedia.org/wiki/Intermediate_logic)
+- [Dempster Shafer Theory](https://en.wikipedia.org/wiki/Dempster%E2%80%93Shafer_theory)
+- [Possibility Theory](https://en.wikipedia.org/wiki/Possibility_theory)
+- [Imprecise Probability Theory](https://en.wikipedia.org/wiki/Imprecise_probability)
+- [Transferable Belief Model](https://en.wikipedia.org/wiki/Transferable_belief_model)
+- Improbability Theory (thanks, Hitchiker's Guide)
