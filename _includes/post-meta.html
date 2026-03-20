@@ -6,9 +6,6 @@
     <a href="/about">{{ include.page.author }}</a>
   </span>
   <span class="post-date">
-      {{ include.page.date | date_to_string }}
-      <!-- {% if include.page.comments %} 
-      • <a href="{{ include.page.url | absolute_url }}#disqus_thread">Comments</a>
-      {% endif %} -->
-    </span>
+    {{ include.page.date | date_to_string }}
+  </span>
 </span>

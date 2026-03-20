@@ -5,25 +5,19 @@ highlighter:      rouge
 permalink:        /:categories/:title/
 
 # Setup
-title:            Hyperparticle
+title:            Dan Kondratyuk
 tagline:          'Recursion is Recursive'
-description:      'Elements of Programming and Mathematics'
-url:              https://hyperparticle.com
+description:      'Elements of Programming and Machine Learning'
+url:              https://dankondratyuk.com
 
 author:
   name:           'Dan Kondratyuk'
-  url:            https://hyperparticle.com
+  url:            https://dankondratyuk.com
 
 paginate:         10
 
 # Default vars
 defaults:
-  # Post comments
-  - scope:
-      path: '' # All files in the project
-      type: 'posts'
-    values:
-      comments: true
   # Author info
   - scope:
       path: ''
