@@ -34,4 +34,4 @@ github:
 plugins: [jekyll-paginate]
 
 # Directories
-exclude: ["vendor"]
+exclude: ["vendor", "bin"]
