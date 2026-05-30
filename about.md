@@ -23,9 +23,9 @@ I am currently a co-founder of [rekursiv.ai](https://rekursiv.ai/), building tea
 
 My work includes training foundational models at [Luma AI](https://lumalabs.ai/) and [Google Research](https://research.google/), along with efficient training and inference techniques for video models. At Luma AI, I co-developed the generative video models powering [Dream Machine](https://lumalabs.ai/dream-machine), and led work on realtime interactive video models.
 
-I am the first author and lead contributor of [VideoPoet](http://sites.research.google/videopoet/), a multimodal LLM for video and audio generation that received an ICML Best Paper award. I also created [MoViNets](https://arxiv.org/abs/2103.11511), a family of efficient mobile video networks for realtime video action recognition, and [UDify](https://github.com/Hyperparticle/udify), a single multilingual model for parsing the syntax of 75 languages.
+I am the first author and lead contributor of [VideoPoet](https://sites.research.google/videopoet/), a multimodal LLM for video and audio generation that received an ICML Best Paper award. I also created [MoViNets](https://arxiv.org/abs/2103.11511), a family of efficient mobile video networks for realtime video action recognition, and [UDify](https://github.com/Hyperparticle/udify), a single multilingual model for parsing the syntax of 75 languages.
 
-At Luma AI, I led the World Models team, focused on realtime interactive GenAI video, including joint video-audio generation, video avatar speech-to-video, and realtime player and camera control. Before Luma, I spent five years at Google Research, starting as an AI Resident and later working as a Senior Machine Learning Engineer. My Google work included [Integrated Multimodal Perception](https://arxiv.org/abs/2305.17082), a Mixture-of-Experts model that combines image, video, audio, and text modalities, as well as research on efficient model ensembling.
+At Luma AI, I led the World Models team, focused on realtime interactive GenAI video, including joint video-audio generation, video avatar speech-to-video, and realtime player and camera control. Before Luma, I spent five years at Google Research, starting as an AI Resident and later working as a Senior Machine Learning Engineer. My Google work included [Integrated Multimodal Perception](https://arxiv.org/abs/2305.06324), a Mixture-of-Experts model that combines image, video, audio, and text modalities, as well as research on efficient model ensembling.
 
 I hold a Joint M.S. in Computational Linguistics from [Charles University in Prague](https://www.cuni.cz/) and [Saarland University](https://www.uni-saarland.de/en/home.html), earned through an [Erasmus Mundus](https://lct-master.org/) scholarship. My thesis on multilingual dependency parsing received the Best Master's Thesis award from the Mathematics & Physics department. I completed my B.S. in Computer Science at [Boise State University](https://www.boisestate.edu/), graduating Summa Cum Laude and receiving the Outstanding Student Award in Computer Science.
 
@@ -47,11 +47,11 @@ My research spans multimodal generative models, efficient video understanding, a
 
 <div class="publication-list">
   <article class="publication-item">
-    <a class="publication-thumb" href="https://arxiv.org/abs/2312.14125" aria-label="VideoPoet: A Large Language Model for Zero-Shot Video Generation">
+    <a class="publication-thumb" href="https://sites.research.google/videopoet/" aria-label="VideoPoet: A Large Language Model for Zero-Shot Video Generation">
       <img src="/public/img/publications/videopoet.png" alt="VideoPoet thumbnail" width="120" height="120" loading="lazy">
     </a>
     <div class="publication-body">
-      <h3><a href="https://arxiv.org/abs/2312.14125">VideoPoet: A Large Language Model for Zero-Shot Video Generation</a></h3>
+      <h3><a href="https://sites.research.google/videopoet/">VideoPoet: A Large Language Model for Zero-Shot Video Generation</a></h3>
       <p class="publication-authors"><strong>D. Kondratyuk</strong>, L. Yu, X. Gu, J. Lezama, J. Huang, R. Hornung, H. Adam, H. Akbari, Y. Alon, V. Birodkar, et al.</p>
       <p class="publication-meta"><em>ICML</em>, 2024 &middot; <strong>Best Paper</strong></p>
       <p>A multimodal large language model for zero-shot video and audio generation from images, videos, text, and audio.</p>
