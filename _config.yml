@@ -7,7 +7,7 @@ permalink:        /:categories/:title/
 # Setup
 title:            Dan Kondratyuk
 tagline:          'Recursion is Recursive'
-description:      'Elements of Programming and Machine Learning'
+description:      'Machine Learning, Multimodal Systems, and Generative Video'
 url:              https://dankondratyuk.com
 
 author:

@@ -28,12 +28,16 @@ GEM
       ffi (>= 1.15.0)
       logger
     eventmachine (1.2.7)
+    ffi (1.17.3-arm64-darwin)
     ffi (1.17.3-x64-mingw-ucrt)
     fiber-annotation (0.2.0)
     fiber-local (1.1.0)
       fiber-storage
     fiber-storage (1.0.1)
     forwardable-extended (2.6.0)
+    google-protobuf (4.34.0-arm64-darwin)
+      bigdecimal
+      rake (~> 13.3)
     google-protobuf (4.34.0-x64-mingw-ucrt)
       bigdecimal
       rake (~> 13.3)
@@ -89,6 +93,8 @@ GEM
     logger (1.7.0)
     mercenary (0.4.0)
     metrics (0.15.0)
+    nokogiri (1.19.2-arm64-darwin)
+      racc (~> 1.4)
     nokogiri (1.19.2-x64-mingw-ucrt)
       racc (~> 1.4)
     pathutil (0.16.2)
@@ -110,6 +116,8 @@ GEM
     rouge (4.7.0)
     ruby-rc4 (0.1.5)
     safe_yaml (1.0.5)
+    sass-embedded (1.98.0-arm64-darwin)
+      google-protobuf (~> 4.31)
     sass-embedded (1.98.0-x64-mingw-ucrt)
       google-protobuf (~> 4.31)
     terminal-table (3.0.2)
@@ -120,19 +128,18 @@ GEM
     typhoeus (1.6.0)
       ethon (>= 0.18.0)
     unicode-display_width (2.6.0)
-    wdm (0.2.0)
     webrick (1.9.2)
     yell (2.2.2)
     zeitwerk (2.7.5)
 
 PLATFORMS
+  arm64-darwin-25
   x64-mingw-ucrt
 
 DEPENDENCIES
   html-proofer (~> 5.0)
   jekyll (~> 4.3)
   jekyll-paginate
-  wdm (>= 0.1.0)
   webrick
 
 RUBY VERSION

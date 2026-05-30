@@ -1,5 +1,5 @@
 <head>
-  <meta name="description" content="Elements of Programming and Mathematics. Dan Kondratyuk's personal website and blog.">
+  <meta name="description" content="{{ site.description }}. Dan Kondratyuk's personal website and blog.">
   <meta charset="utf-8">
 
   <!-- Enable responsiveness on mobile devices-->
@@ -14,10 +14,13 @@
   </title>
 
   <!-- CSS -->
+  {% if page.title == "Home" and site.posts.first.image %}
+  <link rel="preload" as="image" href="{{ site.posts.first.image }}">
+  {% endif %}
   <link rel="stylesheet" href="/public/css/poole.css">
   <link rel="stylesheet" href="/public/css/syntax.css">
   <link rel="stylesheet" href="/public/css/lanyon.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+  <link rel="stylesheet" href="/public/css/font-awesome.min.css">
   <link rel="stylesheet" href="/public/css/custom.css">
   <link rel="stylesheet" href="/public/css/social-icons.css">
   <link rel="stylesheet" href="/public/css/googlefonts.css">

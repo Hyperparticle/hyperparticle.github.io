@@ -544,10 +544,10 @@ a.pagination-item:hover {
 .theme-base-custom .sidebar,
 .theme-base-custom .sidebar-toggle:active,
 .theme-base-custom #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #309986;
+  background-color: #267a6b;
 }
 .theme-base-custom .container a,
 .theme-base-custom .sidebar-toggle,
 .theme-base-custom .related-posts li a:hover {
-  color: #309986;
+  color: #267a6b;
 }
