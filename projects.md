@@ -5,6 +5,7 @@ title: Projects
 
 You can find links to major projects and publications I have worked on below.
 
+- [rekursiv.ai](https://rekursiv.ai/) - Building teams of AI Scientists to autonomously create knowledge.
 - [Dream Machine](https://lumalabs.ai/dream-machine) - Generative video models for Luma AI's core product.
 - [VideoPoet](https://sites.research.google/videopoet/) - A multimodal LLM for zero-shot video and audio generation; ICML 2024 Best Paper.
 - [MoViNets](https://arxiv.org/abs/2103.11511) - Mobile video networks for efficient, realtime video action recognition.
