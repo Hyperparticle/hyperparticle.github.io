@@ -12,7 +12,10 @@
     <div class="wrap">
       <div class="masthead">
         <div class="container">
-          <div class="logo"><img src="/public/ribbons-144.png" alt="logo"></div>
+          <div class="masthead-actions">
+            <button class="theme-toggle" type="button" aria-label="Toggle dark mode" aria-pressed="false" data-theme-toggle></button>
+            <div class="logo"><img src="/public/ribbons-144.png" alt="logo"></div>
+          </div>
           <h3 class="masthead-title">
             <a href="/" title="Home">{{ site.title }}</a>
             <small>{{ site.tagline }}</small>
@@ -29,5 +32,6 @@
 
 <!-- https://github.com/sourcey/recliner -->
     <!-- <script src="/public/js/recliner.min.js"></script> -->
+    <script src="/public/js/theme.js"></script>
   </body>
 </html>

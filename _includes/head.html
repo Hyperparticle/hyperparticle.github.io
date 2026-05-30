@@ -4,6 +4,7 @@
 
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="color-scheme" content="light dark">
 
   <title>
     {% if page.title == "Home" %}
@@ -12,6 +13,19 @@
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
   </title>
+
+  <script>
+    (function() {
+      var storedTheme = null;
+      try {
+        storedTheme = localStorage.getItem('hyperparticle.theme');
+      } catch (error) {}
+      var theme = (storedTheme === 'dark' || storedTheme === 'light')
+        ? storedTheme
+        : 'light';
+      document.documentElement.setAttribute('data-theme', theme);
+    })();
+  </script>
 
   <!-- CSS -->
   {% if page.title == "Home" and site.posts.first.image %}
