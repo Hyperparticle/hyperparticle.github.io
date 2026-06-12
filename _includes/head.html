@@ -39,6 +39,8 @@
   <link rel="stylesheet" href="/public/css/social-icons.css">
   <link rel="stylesheet" href="/public/css/googlefonts.css">
 
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+
   <!-- Open Graph -->
   <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
   <meta property="og:title" content="{% if page.title == 'Home' %}{{ site.title }} &middot; {{ site.tagline }}{% else %}{{ page.title }} &middot; {{ site.title }}{% endif %}">
